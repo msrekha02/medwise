@@ -8,7 +8,7 @@ import AuthPage from "./pages/Login";
 import Search from "./pages/Search";
 import Chat from "./pages/Chat";
 import MedicineDetail from "./pages/MedicineDetail"
-import PrescriptionScanner from "./pages/PrescriptionScanner";
+// import PrescriptionScanner from "./pages/PrescriptionScanner";
 
 
 const hideNavbarRoutes = ["/login", "/chat"];
@@ -26,7 +26,7 @@ function App() {
         <Route path="/login" element={<AuthPage />} />
         <Route path="/chat" element={<Chat />} />
         <Route path="/medicine/:slug" element={<MedicineDetail />} />
-        <Route path="/scanner" element={<PrescriptionScanner />} />
+        {/* <Route path="/scanner" element={<PrescriptionScanner />} /> */}
       </Routes>
     </>
   );

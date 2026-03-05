@@ -2,10 +2,11 @@ import React, { useState, useMemo, useEffect } from "react";
 import SearchBar from "../components/search/SearchBar";
 import SearchFilters from "../components/search/SearchFilters";
 import MedicineCard from "../components/search/MedicineCard";
-import medicinesData from "../data/medicines.json";
 
 export default function Search() {
   const [query, setQuery] = useState("");
+  const [medicinesData, setMedicinesData] = useState([]);
+  const [loading, setLoading] = useState(true);
 
   const user = JSON.parse(localStorage.getItem("user")) || {};
 
@@ -116,10 +117,10 @@ export default function Search() {
       );
     });
 
-    if (!query) return filtered.slice(0, 8);
+    if (!query) return medicinesData.slice(0, 8); // show default medicines
 
     return filtered;
-  }, [query, filters]);
+  }, [query, filters, medicinesData]);
 
   useEffect(() => {
     const reloadHistory = () => {
@@ -137,6 +138,19 @@ export default function Search() {
       window.removeEventListener("history-updated", reloadHistory);
     };
   }, [historyKey]);
+
+  useEffect(() => {
+    fetch("http://localhost:5000/api/medicines")
+      .then((res) => res.json())
+      .then((data) => {
+        setMedicinesData(data);
+        setLoading(false);
+      })
+      .catch((err) => {
+        console.error(err);
+        setLoading(false);
+      });
+  }, []);
 
   return (
     <div className="min-h-screen bg-[#f8fbfb]">
@@ -161,11 +175,21 @@ export default function Search() {
           />
         </div>
 
-        {filteredMedicines.length > 0 ? (
+        {!query && !loading && (
+          <h2 className="text-xl font-semibold text-[#1e3a3a] mb-6">
+            Popular Medicines
+          </h2>
+        )}
+
+        {loading ? (
+          <div className="text-center py-20 text-[#2c5c5c]">
+            Loading medicines...
+          </div>
+        ) : filteredMedicines.length > 0 ? (
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            {filteredMedicines.map((med, index) => (
+            {filteredMedicines.map((med) => (
               <MedicineCard
-                key={index}
+                key={med.slug}
                 medicine={med}
                 highlightQuery={highlightQuery}
               />
