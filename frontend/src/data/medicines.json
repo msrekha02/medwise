@@ -1,0 +1,7704 @@
+[
+  {
+    "genericName": "Paracetamol",
+    "slug": "paracetamol",
+    "category": "Analgesic / Antipyretic",
+    "prescriptionRequired": false,
+    "description": "Used to reduce fever and relieve mild to moderate pain.",
+    "indications": [
+      "Fever",
+      "Headache",
+      "Body pain"
+    ],
+    "precautions": [
+      "Avoid overdose",
+      "Caution in liver disease"
+    ],
+    "sideEffects": [
+      "Nausea",
+      "Liver damage in overdose"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "500 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 15,
+            "packSize": "10 tablets",
+            "unitPrice": 1.5
+          },
+          "brands": [
+            {
+              "name": "Crocin",
+              "manufacturer": "GSK",
+              "price": 35,
+              "packSize": "10 tablets",
+              "unitPrice": 3.5
+            },
+            {
+              "name": "Calpol",
+              "manufacturer": "GSK",
+              "price": 32,
+              "packSize": "10 tablets",
+              "unitPrice": 3.2
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "ibuprofen"
+      },
+      {
+        "slug": "diclofenac"
+      }
+    ],
+    "searchTags": [
+      "fever",
+      "pain"
+    ]
+  },
+  {
+    "genericName": "Ibuprofen",
+    "slug": "ibuprofen",
+    "category": "NSAID",
+    "prescriptionRequired": false,
+    "description": "Used to relieve pain, inflammation, and fever.",
+    "indications": [
+      "Headache",
+      "Arthritis",
+      "Muscle pain"
+    ],
+    "precautions": [
+      "Avoid in stomach ulcers",
+      "Use cautiously in kidney disease"
+    ],
+    "sideEffects": [
+      "Stomach pain",
+      "Heartburn",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "400 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 20,
+            "packSize": "10 tablets",
+            "unitPrice": 2.0
+          },
+          "brands": [
+            {
+              "name": "Brufen",
+              "manufacturer": "Abbott",
+              "price": 45,
+              "packSize": "10 tablets",
+              "unitPrice": 4.5
+            },
+            {
+              "name": "Advil",
+              "manufacturer": "Pfizer",
+              "price": 50,
+              "packSize": "10 tablets",
+              "unitPrice": 5.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "paracetamol"
+      },
+      {
+        "slug": "naproxen"
+      }
+    ],
+    "searchTags": [
+      "pain",
+      "inflammation"
+    ]
+  },
+  {
+    "genericName": "Amoxicillin",
+    "slug": "amoxicillin",
+    "category": "Antibiotic",
+    "prescriptionRequired": true,
+    "description": "Antibiotic used to treat bacterial infections.",
+    "indications": [
+      "Respiratory infections",
+      "Ear infection",
+      "Urinary infection"
+    ],
+    "precautions": [
+      "Complete full course",
+      "Avoid if allergic to penicillin"
+    ],
+    "sideEffects": [
+      "Diarrhea",
+      "Rash",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Capsule",
+        "strength": "500 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 30,
+            "packSize": "10 capsules",
+            "unitPrice": 3.0
+          },
+          "brands": [
+            {
+              "name": "Mox",
+              "manufacturer": "Sun Pharma",
+              "price": 75,
+              "packSize": "10 capsules",
+              "unitPrice": 7.5
+            },
+            {
+              "name": "Amoxil",
+              "manufacturer": "GSK",
+              "price": 80,
+              "packSize": "10 capsules",
+              "unitPrice": 8.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "azithromycin"
+      },
+      {
+        "slug": "cefixime"
+      }
+    ],
+    "searchTags": [
+      "infection",
+      "antibiotic"
+    ]
+  },
+  {
+    "genericName": "Cetirizine",
+    "slug": "cetirizine",
+    "category": "Antihistamine",
+    "prescriptionRequired": false,
+    "description": "Used to treat allergies such as hay fever and skin reactions.",
+    "indications": [
+      "Allergic rhinitis",
+      "Skin allergy",
+      "Cold symptoms"
+    ],
+    "precautions": [
+      "May cause drowsiness",
+      "Avoid alcohol"
+    ],
+    "sideEffects": [
+      "Sleepiness",
+      "Dry mouth"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 10,
+            "packSize": "10 tablets",
+            "unitPrice": 1.0
+          },
+          "brands": [
+            {
+              "name": "Cetzine",
+              "manufacturer": "Dr Reddy's",
+              "price": 35,
+              "packSize": "10 tablets",
+              "unitPrice": 3.5
+            },
+            {
+              "name": "Zyrtec",
+              "manufacturer": "UCB",
+              "price": 40,
+              "packSize": "10 tablets",
+              "unitPrice": 4.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "loratadine"
+      },
+      {
+        "slug": "fexofenadine"
+      }
+    ],
+    "searchTags": [
+      "allergy",
+      "cold"
+    ]
+  },
+  {
+    "genericName": "Pantoprazole",
+    "slug": "pantoprazole",
+    "category": "Proton Pump Inhibitor",
+    "prescriptionRequired": true,
+    "description": "Used to reduce stomach acid production.",
+    "indications": [
+      "Acidity",
+      "GERD",
+      "Stomach ulcer"
+    ],
+    "precautions": [
+      "Use before meals",
+      "Long-term use requires monitoring"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Diarrhea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "40 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 25,
+            "packSize": "10 tablets",
+            "unitPrice": 2.5
+          },
+          "brands": [
+            {
+              "name": "Pantocid",
+              "manufacturer": "Sun Pharma",
+              "price": 90,
+              "packSize": "10 tablets",
+              "unitPrice": 9.0
+            },
+            {
+              "name": "Protonix",
+              "manufacturer": "Pfizer",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "omeprazole"
+      },
+      {
+        "slug": "rabeprazole"
+      }
+    ],
+    "searchTags": [
+      "acidity",
+      "ulcer"
+    ]
+  },
+  {
+    "genericName": "Aspirin",
+    "slug": "aspirin",
+    "category": "NSAID / Antiplatelet",
+    "prescriptionRequired": false,
+    "description": "Used to reduce pain, fever, inflammation, and prevent blood clots.",
+    "indications": [
+      "Headache",
+      "Fever",
+      "Heart attack prevention"
+    ],
+    "precautions": [
+      "Avoid in children with viral infections",
+      "Use cautiously in bleeding disorders"
+    ],
+    "sideEffects": [
+      "Stomach irritation",
+      "Bleeding",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "75 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 12,
+            "packSize": "14 tablets",
+            "unitPrice": 0.86
+          },
+          "brands": [
+            {
+              "name": "Ecosprin",
+              "manufacturer": "USV",
+              "price": 20,
+              "packSize": "14 tablets",
+              "unitPrice": 1.43
+            },
+            {
+              "name": "Disprin",
+              "manufacturer": "Reckitt",
+              "price": 18,
+              "packSize": "10 tablets",
+              "unitPrice": 1.8
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "clopidogrel"
+      },
+      {
+        "slug": "paracetamol"
+      }
+    ],
+    "searchTags": [
+      "pain",
+      "blood thinner"
+    ]
+  },
+  {
+    "genericName": "Metformin",
+    "slug": "metformin",
+    "category": "Antidiabetic",
+    "prescriptionRequired": true,
+    "description": "Used to control blood sugar levels in type 2 diabetes.",
+    "indications": [
+      "Type 2 diabetes",
+      "Insulin resistance"
+    ],
+    "precautions": [
+      "Avoid in severe kidney disease",
+      "Take with meals"
+    ],
+    "sideEffects": [
+      "Diarrhea",
+      "Nausea",
+      "Abdominal discomfort"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "500 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 18,
+            "packSize": "10 tablets",
+            "unitPrice": 1.8
+          },
+          "brands": [
+            {
+              "name": "Glycomet",
+              "manufacturer": "USV",
+              "price": 35,
+              "packSize": "10 tablets",
+              "unitPrice": 3.5
+            },
+            {
+              "name": "Glucophage",
+              "manufacturer": "Merck",
+              "price": 40,
+              "packSize": "10 tablets",
+              "unitPrice": 4.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "glimepiride"
+      },
+      {
+        "slug": "sitagliptin"
+      }
+    ],
+    "searchTags": [
+      "diabetes",
+      "blood sugar"
+    ]
+  },
+  {
+    "genericName": "Azithromycin",
+    "slug": "azithromycin",
+    "category": "Antibiotic",
+    "prescriptionRequired": true,
+    "description": "Antibiotic used to treat various bacterial infections.",
+    "indications": [
+      "Respiratory infections",
+      "Skin infections",
+      "Throat infections"
+    ],
+    "precautions": [
+      "Complete full course",
+      "Use cautiously in liver disease"
+    ],
+    "sideEffects": [
+      "Diarrhea",
+      "Nausea",
+      "Abdominal pain"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "500 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 40,
+            "packSize": "3 tablets",
+            "unitPrice": 13.33
+          },
+          "brands": [
+            {
+              "name": "Azee",
+              "manufacturer": "Cipla",
+              "price": 85,
+              "packSize": "3 tablets",
+              "unitPrice": 28.33
+            },
+            {
+              "name": "Zithromax",
+              "manufacturer": "Pfizer",
+              "price": 95,
+              "packSize": "3 tablets",
+              "unitPrice": 31.67
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "amoxicillin"
+      },
+      {
+        "slug": "clarithromycin"
+      }
+    ],
+    "searchTags": [
+      "infection",
+      "antibiotic"
+    ]
+  },
+  {
+    "genericName": "Loratadine",
+    "slug": "loratadine",
+    "category": "Antihistamine",
+    "prescriptionRequired": false,
+    "description": "Used to treat allergy symptoms like runny nose and sneezing.",
+    "indications": [
+      "Allergic rhinitis",
+      "Skin allergies"
+    ],
+    "precautions": [
+      "Avoid overdose",
+      "Consult doctor during pregnancy"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Dry mouth"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 12,
+            "packSize": "10 tablets",
+            "unitPrice": 1.2
+          },
+          "brands": [
+            {
+              "name": "Lorat",
+              "manufacturer": "Intas",
+              "price": 28,
+              "packSize": "10 tablets",
+              "unitPrice": 2.8
+            },
+            {
+              "name": "Claritin",
+              "manufacturer": "Bayer",
+              "price": 45,
+              "packSize": "10 tablets",
+              "unitPrice": 4.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "cetirizine"
+      },
+      {
+        "slug": "fexofenadine"
+      }
+    ],
+    "searchTags": [
+      "allergy",
+      "antihistamine"
+    ]
+  },
+  {
+    "genericName": "Omeprazole",
+    "slug": "omeprazole",
+    "category": "Proton Pump Inhibitor",
+    "prescriptionRequired": true,
+    "description": "Used to treat acidity, GERD, and stomach ulcers.",
+    "indications": [
+      "Acidity",
+      "GERD",
+      "Peptic ulcer"
+    ],
+    "precautions": [
+      "Take before meals",
+      "Long term use requires medical supervision"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Constipation",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Capsule",
+        "strength": "20 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 22,
+            "packSize": "10 capsules",
+            "unitPrice": 2.2
+          },
+          "brands": [
+            {
+              "name": "Omez",
+              "manufacturer": "Dr Reddy's",
+              "price": 60,
+              "packSize": "10 capsules",
+              "unitPrice": 6.0
+            },
+            {
+              "name": "Prilosec",
+              "manufacturer": "AstraZeneca",
+              "price": 70,
+              "packSize": "10 capsules",
+              "unitPrice": 7.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "pantoprazole"
+      },
+      {
+        "slug": "rabeprazole"
+      }
+    ],
+    "searchTags": [
+      "acidity",
+      "ulcer"
+    ]
+  },
+  {
+    "genericName": "Diclofenac",
+    "slug": "diclofenac",
+    "category": "NSAID",
+    "prescriptionRequired": true,
+    "description": "Used to relieve pain and inflammation.",
+    "indications": [
+      "Joint pain",
+      "Arthritis",
+      "Muscle pain"
+    ],
+    "precautions": [
+      "Avoid in stomach ulcers",
+      "Use cautiously in heart disease"
+    ],
+    "sideEffects": [
+      "Stomach pain",
+      "Nausea",
+      "Heartburn"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "50 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 18,
+            "packSize": "10 tablets",
+            "unitPrice": 1.8
+          },
+          "brands": [
+            {
+              "name": "Voveran",
+              "manufacturer": "Novartis",
+              "price": 45,
+              "packSize": "10 tablets",
+              "unitPrice": 4.5
+            },
+            {
+              "name": "Dicloran",
+              "manufacturer": "J B Chemicals",
+              "price": 42,
+              "packSize": "10 tablets",
+              "unitPrice": 4.2
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "ibuprofen"
+      },
+      {
+        "slug": "naproxen"
+      }
+    ],
+    "searchTags": [
+      "pain",
+      "inflammation"
+    ]
+  },
+  {
+    "genericName": "Rabeprazole",
+    "slug": "rabeprazole",
+    "category": "Proton Pump Inhibitor",
+    "prescriptionRequired": true,
+    "description": "Used to treat acidity and ulcers.",
+    "indications": [
+      "Acidity",
+      "GERD",
+      "Peptic ulcer"
+    ],
+    "precautions": [
+      "Take before meals",
+      "Avoid long-term unsupervised use"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Diarrhea",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "20 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 26,
+            "packSize": "10 tablets",
+            "unitPrice": 2.6
+          },
+          "brands": [
+            {
+              "name": "Rablet",
+              "manufacturer": "Lupin",
+              "price": 70,
+              "packSize": "10 tablets",
+              "unitPrice": 7.0
+            },
+            {
+              "name": "Pariet",
+              "manufacturer": "Eisai",
+              "price": 75,
+              "packSize": "10 tablets",
+              "unitPrice": 7.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "pantoprazole"
+      },
+      {
+        "slug": "omeprazole"
+      }
+    ],
+    "searchTags": [
+      "acidity",
+      "ulcer"
+    ]
+  },
+  {
+    "genericName": "Fexofenadine",
+    "slug": "fexofenadine",
+    "category": "Antihistamine",
+    "prescriptionRequired": false,
+    "description": "Used to treat allergy symptoms.",
+    "indications": [
+      "Allergic rhinitis",
+      "Skin allergies",
+      "Hay fever"
+    ],
+    "precautions": [
+      "Avoid fruit juice while taking medicine",
+      "Consult doctor in kidney disease"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Dizziness",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "120 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 20,
+            "packSize": "10 tablets",
+            "unitPrice": 2.0
+          },
+          "brands": [
+            {
+              "name": "Allegra",
+              "manufacturer": "Sanofi",
+              "price": 120,
+              "packSize": "10 tablets",
+              "unitPrice": 12.0
+            },
+            {
+              "name": "Fexova",
+              "manufacturer": "Intas",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "cetirizine"
+      },
+      {
+        "slug": "loratadine"
+      }
+    ],
+    "searchTags": [
+      "allergy",
+      "antihistamine"
+    ]
+  },
+  {
+    "genericName": "Cefixime",
+    "slug": "cefixime",
+    "category": "Antibiotic",
+    "prescriptionRequired": true,
+    "description": "Broad-spectrum antibiotic used to treat infections.",
+    "indications": [
+      "Urinary infection",
+      "Respiratory infection",
+      "Typhoid"
+    ],
+    "precautions": [
+      "Complete full course",
+      "Avoid if allergic to cephalosporins"
+    ],
+    "sideEffects": [
+      "Diarrhea",
+      "Nausea",
+      "Stomach upset"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "200 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 45,
+            "packSize": "10 tablets",
+            "unitPrice": 4.5
+          },
+          "brands": [
+            {
+              "name": "Taxim-O",
+              "manufacturer": "Alkem",
+              "price": 140,
+              "packSize": "10 tablets",
+              "unitPrice": 14.0
+            },
+            {
+              "name": "Cefspan",
+              "manufacturer": "Hetero",
+              "price": 120,
+              "packSize": "10 tablets",
+              "unitPrice": 12.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "amoxicillin"
+      },
+      {
+        "slug": "azithromycin"
+      }
+    ],
+    "searchTags": [
+      "infection",
+      "antibiotic"
+    ]
+  },
+  {
+    "genericName": "Atorvastatin",
+    "slug": "atorvastatin",
+    "category": "Statin / Cholesterol Lowering",
+    "prescriptionRequired": true,
+    "description": "Used to lower cholesterol levels.",
+    "indications": [
+      "High cholesterol",
+      "Heart disease prevention"
+    ],
+    "precautions": [
+      "Avoid excessive alcohol",
+      "Monitor liver function"
+    ],
+    "sideEffects": [
+      "Muscle pain",
+      "Headache",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 30,
+            "packSize": "10 tablets",
+            "unitPrice": 3.0
+          },
+          "brands": [
+            {
+              "name": "Atorva",
+              "manufacturer": "Zydus",
+              "price": 85,
+              "packSize": "10 tablets",
+              "unitPrice": 8.5
+            },
+            {
+              "name": "Lipitor",
+              "manufacturer": "Pfizer",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "rosuvastatin"
+      },
+      {
+        "slug": "simvastatin"
+      }
+    ],
+    "searchTags": [
+      "cholesterol",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Montelukast",
+    "slug": "montelukast",
+    "category": "Leukotriene Receptor Antagonist",
+    "prescriptionRequired": true,
+    "description": "Used to prevent asthma attacks and treat allergy symptoms.",
+    "indications": [
+      "Asthma prevention",
+      "Allergic rhinitis"
+    ],
+    "precautions": [
+      "Take regularly",
+      "Consult doctor if mood changes occur"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Abdominal pain",
+      "Fatigue"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 35,
+            "packSize": "10 tablets",
+            "unitPrice": 3.5
+          },
+          "brands": [
+            {
+              "name": "Montair",
+              "manufacturer": "Cipla",
+              "price": 120,
+              "packSize": "10 tablets",
+              "unitPrice": 12.0
+            },
+            {
+              "name": "Singulair",
+              "manufacturer": "MSD",
+              "price": 140,
+              "packSize": "10 tablets",
+              "unitPrice": 14.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "levocetirizine"
+      },
+      {
+        "slug": "fexofenadine"
+      }
+    ],
+    "searchTags": [
+      "asthma",
+      "allergy"
+    ]
+  },
+  {
+    "genericName": "Telmisartan",
+    "slug": "telmisartan",
+    "category": "Antihypertensive (ARB)",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure.",
+    "indications": [
+      "Hypertension",
+      "Heart protection"
+    ],
+    "precautions": [
+      "Monitor blood pressure",
+      "Avoid during pregnancy"
+    ],
+    "sideEffects": [
+      "Dizziness",
+      "Low blood pressure",
+      "Back pain"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "40 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 28,
+            "packSize": "10 tablets",
+            "unitPrice": 2.8
+          },
+          "brands": [
+            {
+              "name": "Telma",
+              "manufacturer": "Glenmark",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Micardis",
+              "manufacturer": "Boehringer Ingelheim",
+              "price": 110,
+              "packSize": "10 tablets",
+              "unitPrice": 11.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "losartan"
+      },
+      {
+        "slug": "valsartan"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "hypertension"
+    ]
+  },
+  {
+    "genericName": "Glimepiride",
+    "slug": "glimepiride",
+    "category": "Antidiabetic (Sulfonylurea)",
+    "prescriptionRequired": true,
+    "description": "Used to control blood sugar levels.",
+    "indications": [
+      "Type 2 diabetes"
+    ],
+    "precautions": [
+      "Take with meals",
+      "Monitor blood glucose"
+    ],
+    "sideEffects": [
+      "Low blood sugar",
+      "Headache",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "2 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 22,
+            "packSize": "10 tablets",
+            "unitPrice": 2.2
+          },
+          "brands": [
+            {
+              "name": "Amaryl",
+              "manufacturer": "Sanofi",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Glimy",
+              "manufacturer": "Dr Reddy's",
+              "price": 75,
+              "packSize": "10 tablets",
+              "unitPrice": 7.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "metformin"
+      },
+      {
+        "slug": "sitagliptin"
+      }
+    ],
+    "searchTags": [
+      "diabetes",
+      "blood sugar"
+    ]
+  },
+  {
+    "genericName": "Amlodipine",
+    "slug": "amlodipine",
+    "category": "Calcium Channel Blocker",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and angina.",
+    "indications": [
+      "Hypertension",
+      "Angina"
+    ],
+    "precautions": [
+      "Monitor blood pressure",
+      "Avoid sudden stopping"
+    ],
+    "sideEffects": [
+      "Swelling of ankles",
+      "Dizziness",
+      "Fatigue"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "5 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 18,
+            "packSize": "10 tablets",
+            "unitPrice": 1.8
+          },
+          "brands": [
+            {
+              "name": "Amlong",
+              "manufacturer": "Micro Labs",
+              "price": 55,
+              "packSize": "10 tablets",
+              "unitPrice": 5.5
+            },
+            {
+              "name": "Norvasc",
+              "manufacturer": "Pfizer",
+              "price": 75,
+              "packSize": "10 tablets",
+              "unitPrice": 7.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "nifedipine"
+      },
+      {
+        "slug": "felodipine"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Losartan",
+    "slug": "losartan",
+    "category": "Antihypertensive (ARB)",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and protect kidneys.",
+    "indications": [
+      "Hypertension",
+      "Kidney protection in diabetes"
+    ],
+    "precautions": [
+      "Monitor kidney function",
+      "Avoid during pregnancy"
+    ],
+    "sideEffects": [
+      "Dizziness",
+      "High potassium",
+      "Fatigue"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "50 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 25,
+            "packSize": "10 tablets",
+            "unitPrice": 2.5
+          },
+          "brands": [
+            {
+              "name": "Losar",
+              "manufacturer": "Unichem",
+              "price": 85,
+              "packSize": "10 tablets",
+              "unitPrice": 8.5
+            },
+            {
+              "name": "Cozaar",
+              "manufacturer": "Merck",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "telmisartan"
+      },
+      {
+        "slug": "valsartan"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "hypertension"
+    ]
+  },
+  {
+    "genericName": "Levocetirizine",
+    "slug": "levocetirizine",
+    "category": "Antihistamine",
+    "prescriptionRequired": false,
+    "description": "Used to treat allergy symptoms like sneezing, runny nose, and itching.",
+    "indications": [
+      "Allergic rhinitis",
+      "Skin allergies",
+      "Cold symptoms"
+    ],
+    "precautions": [
+      "May cause drowsiness",
+      "Avoid alcohol"
+    ],
+    "sideEffects": [
+      "Sleepiness",
+      "Dry mouth",
+      "Fatigue"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "5 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 15,
+            "packSize": "10 tablets",
+            "unitPrice": 1.5
+          },
+          "brands": [
+            {
+              "name": "Levocet",
+              "manufacturer": "Cipla",
+              "price": 45,
+              "packSize": "10 tablets",
+              "unitPrice": 4.5
+            },
+            {
+              "name": "Xyzal",
+              "manufacturer": "UCB",
+              "price": 55,
+              "packSize": "10 tablets",
+              "unitPrice": 5.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "cetirizine"
+      },
+      {
+        "slug": "loratadine"
+      }
+    ],
+    "searchTags": [
+      "allergy",
+      "antihistamine"
+    ]
+  },
+  {
+    "genericName": "Doxycycline",
+    "slug": "doxycycline",
+    "category": "Antibiotic",
+    "prescriptionRequired": true,
+    "description": "Broad-spectrum antibiotic used to treat bacterial infections.",
+    "indications": [
+      "Respiratory infections",
+      "Acne",
+      "Urinary infection"
+    ],
+    "precautions": [
+      "Avoid in pregnancy",
+      "Take after meals"
+    ],
+    "sideEffects": [
+      "Nausea",
+      "Photosensitivity",
+      "Diarrhea"
+    ],
+    "variants": [
+      {
+        "form": "Capsule",
+        "strength": "100 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 35,
+            "packSize": "10 capsules",
+            "unitPrice": 3.5
+          },
+          "brands": [
+            {
+              "name": "Doxicip",
+              "manufacturer": "Cipla",
+              "price": 75,
+              "packSize": "10 capsules",
+              "unitPrice": 7.5
+            },
+            {
+              "name": "Vibramycin",
+              "manufacturer": "Pfizer",
+              "price": 85,
+              "packSize": "10 capsules",
+              "unitPrice": 8.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "azithromycin"
+      },
+      {
+        "slug": "amoxicillin"
+      }
+    ],
+    "searchTags": [
+      "infection",
+      "antibiotic"
+    ]
+  },
+  {
+    "genericName": "Ciprofloxacin",
+    "slug": "ciprofloxacin",
+    "category": "Antibiotic",
+    "prescriptionRequired": true,
+    "description": "Antibiotic used to treat bacterial infections including urinary and respiratory infections.",
+    "indications": [
+      "Urinary infection",
+      "Respiratory infection",
+      "Gastrointestinal infection"
+    ],
+    "precautions": [
+      "Avoid in children",
+      "Avoid excessive sunlight"
+    ],
+    "sideEffects": [
+      "Nausea",
+      "Dizziness",
+      "Diarrhea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "500 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 30,
+            "packSize": "10 tablets",
+            "unitPrice": 3.0
+          },
+          "brands": [
+            {
+              "name": "Ciplox",
+              "manufacturer": "Cipla",
+              "price": 85,
+              "packSize": "10 tablets",
+              "unitPrice": 8.5
+            },
+            {
+              "name": "Ciprolet",
+              "manufacturer": "Dr Reddy's",
+              "price": 80,
+              "packSize": "10 tablets",
+              "unitPrice": 8.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "levofloxacin"
+      },
+      {
+        "slug": "ofloxacin"
+      }
+    ],
+    "searchTags": [
+      "infection",
+      "antibiotic"
+    ]
+  },
+  {
+    "genericName": "Metoprolol",
+    "slug": "metoprolol",
+    "category": "Beta Blocker",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure, heart problems, and prevent heart attacks.",
+    "indications": [
+      "Hypertension",
+      "Heart disease",
+      "Angina"
+    ],
+    "precautions": [
+      "Do not stop suddenly",
+      "Monitor blood pressure regularly"
+    ],
+    "sideEffects": [
+      "Fatigue",
+      "Dizziness",
+      "Slow heartbeat"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "50 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 25,
+            "packSize": "10 tablets",
+            "unitPrice": 2.5
+          },
+          "brands": [
+            {
+              "name": "Metolar",
+              "manufacturer": "Cipla",
+              "price": 70,
+              "packSize": "10 tablets",
+              "unitPrice": 7.0
+            },
+            {
+              "name": "Lopressor",
+              "manufacturer": "Novartis",
+              "price": 85,
+              "packSize": "10 tablets",
+              "unitPrice": 8.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "atenolol"
+      },
+      {
+        "slug": "propranolol"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Clopidogrel",
+    "slug": "clopidogrel",
+    "category": "Antiplatelet",
+    "prescriptionRequired": true,
+    "description": "Used to prevent blood clots in patients with heart disease.",
+    "indications": [
+      "Heart attack prevention",
+      "Stroke prevention"
+    ],
+    "precautions": [
+      "Avoid bleeding injuries",
+      "Consult doctor before surgery"
+    ],
+    "sideEffects": [
+      "Bleeding",
+      "Bruising",
+      "Stomach upset"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "75 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 28,
+            "packSize": "10 tablets",
+            "unitPrice": 2.8
+          },
+          "brands": [
+            {
+              "name": "Clopilet",
+              "manufacturer": "Sun Pharma",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Plavix",
+              "manufacturer": "Sanofi",
+              "price": 120,
+              "packSize": "10 tablets",
+              "unitPrice": 12.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "aspirin"
+      },
+      {
+        "slug": "ticagrelor"
+      }
+    ],
+    "searchTags": [
+      "blood thinner",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Atenolol",
+    "slug": "atenolol",
+    "category": "Beta Blocker",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and heart-related conditions.",
+    "indications": [
+      "Hypertension",
+      "Angina",
+      "Heart rhythm disorders"
+    ],
+    "precautions": [
+      "Do not stop suddenly",
+      "Monitor blood pressure regularly"
+    ],
+    "sideEffects": [
+      "Fatigue",
+      "Dizziness",
+      "Slow heartbeat"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "50 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 20,
+            "packSize": "10 tablets",
+            "unitPrice": 2.0
+          },
+          "brands": [
+            {
+              "name": "Aten",
+              "manufacturer": "Zydus",
+              "price": 45,
+              "packSize": "10 tablets",
+              "unitPrice": 4.5
+            },
+            {
+              "name": "Tenormin",
+              "manufacturer": "AstraZeneca",
+              "price": 65,
+              "packSize": "10 tablets",
+              "unitPrice": 6.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "metoprolol"
+      },
+      {
+        "slug": "propranolol"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Propranolol",
+    "slug": "propranolol",
+    "category": "Beta Blocker",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure, anxiety, and migraine prevention.",
+    "indications": [
+      "Hypertension",
+      "Migraine prevention",
+      "Anxiety"
+    ],
+    "precautions": [
+      "Avoid sudden withdrawal",
+      "Monitor heart rate"
+    ],
+    "sideEffects": [
+      "Fatigue",
+      "Dizziness",
+      "Cold hands"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "40 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 18,
+            "packSize": "10 tablets",
+            "unitPrice": 1.8
+          },
+          "brands": [
+            {
+              "name": "Ciplar",
+              "manufacturer": "Cipla",
+              "price": 50,
+              "packSize": "10 tablets",
+              "unitPrice": 5.0
+            },
+            {
+              "name": "Inderal",
+              "manufacturer": "Abbott",
+              "price": 65,
+              "packSize": "10 tablets",
+              "unitPrice": 6.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "atenolol"
+      },
+      {
+        "slug": "metoprolol"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "migraine"
+    ]
+  },
+  {
+    "genericName": "Levofloxacin",
+    "slug": "levofloxacin",
+    "category": "Antibiotic",
+    "prescriptionRequired": true,
+    "description": "Broad-spectrum antibiotic used to treat bacterial infections.",
+    "indications": [
+      "Respiratory infection",
+      "Urinary infection",
+      "Skin infection"
+    ],
+    "precautions": [
+      "Avoid excessive sunlight",
+      "Use cautiously in elderly"
+    ],
+    "sideEffects": [
+      "Nausea",
+      "Dizziness",
+      "Diarrhea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "500 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 40,
+            "packSize": "10 tablets",
+            "unitPrice": 4.0
+          },
+          "brands": [
+            {
+              "name": "Levoflox",
+              "manufacturer": "Cipla",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Levaquin",
+              "manufacturer": "Janssen",
+              "price": 110,
+              "packSize": "10 tablets",
+              "unitPrice": 11.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "ciprofloxacin"
+      },
+      {
+        "slug": "ofloxacin"
+      }
+    ],
+    "searchTags": [
+      "infection",
+      "antibiotic"
+    ]
+  },
+  {
+    "genericName": "Ofloxacin",
+    "slug": "ofloxacin",
+    "category": "Antibiotic",
+    "prescriptionRequired": true,
+    "description": "Antibiotic used to treat bacterial infections in respiratory and urinary tract.",
+    "indications": [
+      "Urinary infection",
+      "Respiratory infection",
+      "Eye infection"
+    ],
+    "precautions": [
+      "Avoid excessive sunlight",
+      "Complete full course"
+    ],
+    "sideEffects": [
+      "Nausea",
+      "Dizziness",
+      "Stomach upset"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "200 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 35,
+            "packSize": "10 tablets",
+            "unitPrice": 3.5
+          },
+          "brands": [
+            {
+              "name": "Oflomac",
+              "manufacturer": "Macleods",
+              "price": 85,
+              "packSize": "10 tablets",
+              "unitPrice": 8.5
+            },
+            {
+              "name": "Tarivid",
+              "manufacturer": "Sanofi",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "ciprofloxacin"
+      },
+      {
+        "slug": "levofloxacin"
+      }
+    ],
+    "searchTags": [
+      "infection",
+      "antibiotic"
+    ]
+  },
+  {
+    "genericName": "Simvastatin",
+    "slug": "simvastatin",
+    "category": "Statin",
+    "prescriptionRequired": true,
+    "description": "Used to lower cholesterol and reduce risk of heart disease.",
+    "indications": [
+      "High cholesterol",
+      "Heart disease prevention"
+    ],
+    "precautions": [
+      "Avoid excessive alcohol",
+      "Monitor liver function"
+    ],
+    "sideEffects": [
+      "Muscle pain",
+      "Headache",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 22,
+            "packSize": "10 tablets",
+            "unitPrice": 2.2
+          },
+          "brands": [
+            {
+              "name": "Simvotin",
+              "manufacturer": "Sun Pharma",
+              "price": 65,
+              "packSize": "10 tablets",
+              "unitPrice": 6.5
+            },
+            {
+              "name": "Zocor",
+              "manufacturer": "Merck",
+              "price": 80,
+              "packSize": "10 tablets",
+              "unitPrice": 8.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "atorvastatin"
+      },
+      {
+        "slug": "rosuvastatin"
+      }
+    ],
+    "searchTags": [
+      "cholesterol",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Rosuvastatin",
+    "slug": "rosuvastatin",
+    "category": "Statin",
+    "prescriptionRequired": true,
+    "description": "Used to lower bad cholesterol and reduce risk of heart disease.",
+    "indications": [
+      "High cholesterol",
+      "Heart disease prevention"
+    ],
+    "precautions": [
+      "Monitor liver function",
+      "Avoid excessive alcohol"
+    ],
+    "sideEffects": [
+      "Muscle pain",
+      "Headache",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 32,
+            "packSize": "10 tablets",
+            "unitPrice": 3.2
+          },
+          "brands": [
+            {
+              "name": "Rozavel",
+              "manufacturer": "Sun Pharma",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Crestor",
+              "manufacturer": "AstraZeneca",
+              "price": 120,
+              "packSize": "10 tablets",
+              "unitPrice": 12.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "atorvastatin"
+      },
+      {
+        "slug": "simvastatin"
+      }
+    ],
+    "searchTags": [
+      "cholesterol",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Valsartan",
+    "slug": "valsartan",
+    "category": "Antihypertensive (ARB)",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and heart failure.",
+    "indications": [
+      "Hypertension",
+      "Heart failure"
+    ],
+    "precautions": [
+      "Monitor kidney function",
+      "Avoid during pregnancy"
+    ],
+    "sideEffects": [
+      "Dizziness",
+      "Low blood pressure",
+      "Fatigue"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "80 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 28,
+            "packSize": "10 tablets",
+            "unitPrice": 2.8
+          },
+          "brands": [
+            {
+              "name": "Valzaar",
+              "manufacturer": "Torrent",
+              "price": 85,
+              "packSize": "10 tablets",
+              "unitPrice": 8.5
+            },
+            {
+              "name": "Diovan",
+              "manufacturer": "Novartis",
+              "price": 110,
+              "packSize": "10 tablets",
+              "unitPrice": 11.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "telmisartan"
+      },
+      {
+        "slug": "losartan"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Hydrochlorothiazide",
+    "slug": "hydrochlorothiazide",
+    "category": "Diuretic",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and fluid retention.",
+    "indications": [
+      "Hypertension",
+      "Edema"
+    ],
+    "precautions": [
+      "Monitor electrolyte levels",
+      "Drink adequate fluids"
+    ],
+    "sideEffects": [
+      "Frequent urination",
+      "Dizziness",
+      "Electrolyte imbalance"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "25 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 16,
+            "packSize": "10 tablets",
+            "unitPrice": 1.6
+          },
+          "brands": [
+            {
+              "name": "Hydrazide",
+              "manufacturer": "Sun Pharma",
+              "price": 45,
+              "packSize": "10 tablets",
+              "unitPrice": 4.5
+            },
+            {
+              "name": "Microzide",
+              "manufacturer": "Pfizer",
+              "price": 60,
+              "packSize": "10 tablets",
+              "unitPrice": 6.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "furosemide"
+      },
+      {
+        "slug": "spironolactone"
+      }
+    ],
+    "searchTags": [
+      "diuretic",
+      "blood pressure"
+    ]
+  },
+  {
+    "genericName": "Furosemide",
+    "slug": "furosemide",
+    "category": "Loop Diuretic",
+    "prescriptionRequired": true,
+    "description": "Used to reduce fluid buildup caused by heart failure, liver disease, or kidney disease.",
+    "indications": [
+      "Edema",
+      "Heart failure",
+      "Hypertension"
+    ],
+    "precautions": [
+      "Monitor electrolytes",
+      "Avoid dehydration"
+    ],
+    "sideEffects": [
+      "Frequent urination",
+      "Low potassium",
+      "Dizziness"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "40 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 20,
+            "packSize": "10 tablets",
+            "unitPrice": 2.0
+          },
+          "brands": [
+            {
+              "name": "Lasix",
+              "manufacturer": "Sanofi",
+              "price": 65,
+              "packSize": "10 tablets",
+              "unitPrice": 6.5
+            },
+            {
+              "name": "Fusid",
+              "manufacturer": "Cipla",
+              "price": 55,
+              "packSize": "10 tablets",
+              "unitPrice": 5.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "hydrochlorothiazide"
+      },
+      {
+        "slug": "torsemide"
+      }
+    ],
+    "searchTags": [
+      "diuretic",
+      "edema"
+    ]
+  },
+  {
+    "genericName": "Spironolactone",
+    "slug": "spironolactone",
+    "category": "Potassium-Sparing Diuretic",
+    "prescriptionRequired": true,
+    "description": "Used to treat fluid retention and high blood pressure.",
+    "indications": [
+      "Edema",
+      "Hypertension",
+      "Heart failure"
+    ],
+    "precautions": [
+      "Monitor potassium levels",
+      "Avoid potassium supplements"
+    ],
+    "sideEffects": [
+      "High potassium",
+      "Dizziness",
+      "Breast tenderness"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "25 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 24,
+            "packSize": "10 tablets",
+            "unitPrice": 2.4
+          },
+          "brands": [
+            {
+              "name": "Spiro",
+              "manufacturer": "Intas",
+              "price": 65,
+              "packSize": "10 tablets",
+              "unitPrice": 6.5
+            },
+            {
+              "name": "Aldactone",
+              "manufacturer": "Pfizer",
+              "price": 85,
+              "packSize": "10 tablets",
+              "unitPrice": 8.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "furosemide"
+      },
+      {
+        "slug": "eplerenone"
+      }
+    ],
+    "searchTags": [
+      "diuretic",
+      "blood pressure"
+    ]
+  },
+  {
+    "genericName": "Torsemide",
+    "slug": "torsemide",
+    "category": "Loop Diuretic",
+    "prescriptionRequired": true,
+    "description": "Used to treat fluid retention and high blood pressure.",
+    "indications": [
+      "Edema",
+      "Hypertension",
+      "Heart failure"
+    ],
+    "precautions": [
+      "Monitor electrolyte levels",
+      "Avoid dehydration"
+    ],
+    "sideEffects": [
+      "Frequent urination",
+      "Dizziness",
+      "Low potassium"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 26,
+            "packSize": "10 tablets",
+            "unitPrice": 2.6
+          },
+          "brands": [
+            {
+              "name": "Dytor",
+              "manufacturer": "Cipla",
+              "price": 75,
+              "packSize": "10 tablets",
+              "unitPrice": 7.5
+            },
+            {
+              "name": "Torsem",
+              "manufacturer": "Sun Pharma",
+              "price": 68,
+              "packSize": "10 tablets",
+              "unitPrice": 6.8
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "furosemide"
+      },
+      {
+        "slug": "spironolactone"
+      }
+    ],
+    "searchTags": [
+      "diuretic",
+      "edema"
+    ]
+  },
+  {
+    "genericName": "Eplerenone",
+    "slug": "eplerenone",
+    "category": "Potassium-Sparing Diuretic",
+    "prescriptionRequired": true,
+    "description": "Used to treat heart failure and high blood pressure.",
+    "indications": [
+      "Heart failure",
+      "Hypertension"
+    ],
+    "precautions": [
+      "Monitor potassium levels",
+      "Avoid potassium supplements"
+    ],
+    "sideEffects": [
+      "Dizziness",
+      "High potassium",
+      "Fatigue"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "25 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 40,
+            "packSize": "10 tablets",
+            "unitPrice": 4.0
+          },
+          "brands": [
+            {
+              "name": "Eplerite",
+              "manufacturer": "Sun Pharma",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Inspra",
+              "manufacturer": "Pfizer",
+              "price": 120,
+              "packSize": "10 tablets",
+              "unitPrice": 12.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "spironolactone"
+      },
+      {
+        "slug": "torsemide"
+      }
+    ],
+    "searchTags": [
+      "heart failure",
+      "diuretic"
+    ]
+  },
+  {
+    "genericName": "Insulin Glargine",
+    "slug": "insulin-glargine",
+    "category": "Antidiabetic (Insulin)",
+    "prescriptionRequired": true,
+    "description": "Long-acting insulin used to control blood sugar in diabetes.",
+    "indications": [
+      "Type 1 diabetes",
+      "Type 2 diabetes"
+    ],
+    "precautions": [
+      "Monitor blood glucose",
+      "Store in refrigerator"
+    ],
+    "sideEffects": [
+      "Low blood sugar",
+      "Weight gain",
+      "Injection site reaction"
+    ],
+    "variants": [
+      {
+        "form": "Injection",
+        "strength": "100 IU/ml",
+        "route": "Subcutaneous",
+        "pricing": {
+          "janAushadhi": {
+            "price": 250,
+            "packSize": "1 vial",
+            "unitPrice": 250.0
+          },
+          "brands": [
+            {
+              "name": "Basaglar",
+              "manufacturer": "Eli Lilly",
+              "price": 650,
+              "packSize": "1 vial",
+              "unitPrice": 650.0
+            },
+            {
+              "name": "Lantus",
+              "manufacturer": "Sanofi",
+              "price": 720,
+              "packSize": "1 vial",
+              "unitPrice": 720.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "insulin-detemir"
+      },
+      {
+        "slug": "metformin"
+      }
+    ],
+    "searchTags": [
+      "diabetes",
+      "insulin"
+    ]
+  },
+  {
+    "genericName": "Sitagliptin",
+    "slug": "sitagliptin",
+    "category": "Antidiabetic (DPP-4 Inhibitor)",
+    "prescriptionRequired": true,
+    "description": "Used to control blood sugar levels in type 2 diabetes.",
+    "indications": [
+      "Type 2 diabetes"
+    ],
+    "precautions": [
+      "Monitor blood sugar",
+      "Use cautiously in kidney disease"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Nausea",
+      "Upper respiratory infection"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "100 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 85,
+            "packSize": "10 tablets",
+            "unitPrice": 8.5
+          },
+          "brands": [
+            {
+              "name": "Istamet",
+              "manufacturer": "Sun Pharma",
+              "price": 210,
+              "packSize": "10 tablets",
+              "unitPrice": 21.0
+            },
+            {
+              "name": "Januvia",
+              "manufacturer": "Merck",
+              "price": 260,
+              "packSize": "10 tablets",
+              "unitPrice": 26.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "metformin"
+      },
+      {
+        "slug": "glimepiride"
+      }
+    ],
+    "searchTags": [
+      "diabetes",
+      "blood sugar"
+    ]
+  },
+  {
+    "genericName": "Pioglitazone",
+    "slug": "pioglitazone",
+    "category": "Antidiabetic (Thiazolidinedione)",
+    "prescriptionRequired": true,
+    "description": "Used to improve insulin sensitivity in type 2 diabetes.",
+    "indications": [
+      "Type 2 diabetes"
+    ],
+    "precautions": [
+      "Monitor liver function",
+      "Avoid in heart failure"
+    ],
+    "sideEffects": [
+      "Weight gain",
+      "Edema",
+      "Headache"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "15 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 30,
+            "packSize": "10 tablets",
+            "unitPrice": 3.0
+          },
+          "brands": [
+            {
+              "name": "Pioz",
+              "manufacturer": "USV",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Actos",
+              "manufacturer": "Takeda",
+              "price": 120,
+              "packSize": "10 tablets",
+              "unitPrice": 12.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "metformin"
+      },
+      {
+        "slug": "sitagliptin"
+      }
+    ],
+    "searchTags": [
+      "diabetes",
+      "blood sugar"
+    ]
+  },
+  {
+    "genericName": "Insulin Detemir",
+    "slug": "insulin-detemir",
+    "category": "Antidiabetic (Insulin)",
+    "prescriptionRequired": true,
+    "description": "Long-acting insulin used to control blood sugar levels in diabetes.",
+    "indications": [
+      "Type 1 diabetes",
+      "Type 2 diabetes"
+    ],
+    "precautions": [
+      "Monitor blood glucose regularly",
+      "Store in refrigerator"
+    ],
+    "sideEffects": [
+      "Low blood sugar",
+      "Weight gain",
+      "Injection site reaction"
+    ],
+    "variants": [
+      {
+        "form": "Injection",
+        "strength": "100 IU/ml",
+        "route": "Subcutaneous",
+        "pricing": {
+          "janAushadhi": {
+            "price": 260,
+            "packSize": "1 vial",
+            "unitPrice": 260.0
+          },
+          "brands": [
+            {
+              "name": "Levemir",
+              "manufacturer": "Novo Nordisk",
+              "price": 720,
+              "packSize": "1 vial",
+              "unitPrice": 720.0
+            },
+            {
+              "name": "Detemir",
+              "manufacturer": "Biocon",
+              "price": 680,
+              "packSize": "1 vial",
+              "unitPrice": 680.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "insulin-glargine"
+      },
+      {
+        "slug": "metformin"
+      }
+    ],
+    "searchTags": [
+      "diabetes",
+      "insulin"
+    ]
+  },
+  {
+    "genericName": "Insulin Lispro",
+    "slug": "insulin-lispro",
+    "category": "Antidiabetic (Insulin)",
+    "prescriptionRequired": true,
+    "description": "Rapid-acting insulin used to control blood sugar during meals.",
+    "indications": [
+      "Type 1 diabetes",
+      "Type 2 diabetes"
+    ],
+    "precautions": [
+      "Monitor blood sugar",
+      "Inject before meals"
+    ],
+    "sideEffects": [
+      "Hypoglycemia",
+      "Weight gain",
+      "Injection site irritation"
+    ],
+    "variants": [
+      {
+        "form": "Injection",
+        "strength": "100 IU/ml",
+        "route": "Subcutaneous",
+        "pricing": {
+          "janAushadhi": {
+            "price": 270,
+            "packSize": "1 vial",
+            "unitPrice": 270.0
+          },
+          "brands": [
+            {
+              "name": "Humalog",
+              "manufacturer": "Eli Lilly",
+              "price": 750,
+              "packSize": "1 vial",
+              "unitPrice": 750.0
+            },
+            {
+              "name": "Liprolog",
+              "manufacturer": "Biocon",
+              "price": 700,
+              "packSize": "1 vial",
+              "unitPrice": 700.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "insulin-aspart"
+      },
+      {
+        "slug": "insulin-glargine"
+      }
+    ],
+    "searchTags": [
+      "diabetes",
+      "insulin"
+    ]
+  },
+  {
+    "genericName": "Insulin Aspart",
+    "slug": "insulin-aspart",
+    "category": "Antidiabetic (Insulin)",
+    "prescriptionRequired": true,
+    "description": "Fast-acting insulin used to control blood sugar spikes after meals.",
+    "indications": [
+      "Type 1 diabetes",
+      "Type 2 diabetes"
+    ],
+    "precautions": [
+      "Monitor blood sugar",
+      "Use before meals"
+    ],
+    "sideEffects": [
+      "Low blood sugar",
+      "Weight gain"
+    ],
+    "variants": [
+      {
+        "form": "Injection",
+        "strength": "100 IU/ml",
+        "route": "Subcutaneous",
+        "pricing": {
+          "janAushadhi": {
+            "price": 275,
+            "packSize": "1 vial",
+            "unitPrice": 275.0
+          },
+          "brands": [
+            {
+              "name": "Novorapid",
+              "manufacturer": "Novo Nordisk",
+              "price": 760,
+              "packSize": "1 vial",
+              "unitPrice": 760.0
+            },
+            {
+              "name": "Aspart",
+              "manufacturer": "Biocon",
+              "price": 710,
+              "packSize": "1 vial",
+              "unitPrice": 710.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "insulin-lispro"
+      },
+      {
+        "slug": "insulin-glulisine"
+      }
+    ],
+    "searchTags": [
+      "diabetes",
+      "insulin"
+    ]
+  },
+  {
+    "genericName": "Gliclazide",
+    "slug": "gliclazide",
+    "category": "Antidiabetic (Sulfonylurea)",
+    "prescriptionRequired": true,
+    "description": "Used to control blood sugar levels in type 2 diabetes.",
+    "indications": [
+      "Type 2 diabetes"
+    ],
+    "precautions": [
+      "Take with meals",
+      "Monitor blood sugar regularly"
+    ],
+    "sideEffects": [
+      "Low blood sugar",
+      "Weight gain",
+      "Headache"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "80 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 22,
+            "packSize": "10 tablets",
+            "unitPrice": 2.2
+          },
+          "brands": [
+            {
+              "name": "Diamicron",
+              "manufacturer": "Servier",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Glychek",
+              "manufacturer": "Cipla",
+              "price": 75,
+              "packSize": "10 tablets",
+              "unitPrice": 7.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "glimepiride"
+      },
+      {
+        "slug": "metformin"
+      }
+    ],
+    "searchTags": [
+      "diabetes",
+      "blood sugar"
+    ]
+  },
+  {
+    "genericName": "Repaglinide",
+    "slug": "repaglinide",
+    "category": "Antidiabetic (Meglitinide)",
+    "prescriptionRequired": true,
+    "description": "Used to control blood sugar levels around meal times.",
+    "indications": [
+      "Type 2 diabetes"
+    ],
+    "precautions": [
+      "Take before meals",
+      "Monitor blood glucose"
+    ],
+    "sideEffects": [
+      "Low blood sugar",
+      "Weight gain",
+      "Headache"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "1 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 35,
+            "packSize": "10 tablets",
+            "unitPrice": 3.5
+          },
+          "brands": [
+            {
+              "name": "Prandin",
+              "manufacturer": "Novo Nordisk",
+              "price": 120,
+              "packSize": "10 tablets",
+              "unitPrice": 12.0
+            },
+            {
+              "name": "Repa",
+              "manufacturer": "Sun Pharma",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "glimepiride"
+      },
+      {
+        "slug": "metformin"
+      }
+    ],
+    "searchTags": [
+      "diabetes",
+      "blood sugar"
+    ]
+  },
+  {
+    "genericName": "Insulin Glulisine",
+    "slug": "insulin-glulisine",
+    "category": "Antidiabetic (Insulin)",
+    "prescriptionRequired": true,
+    "description": "Rapid-acting insulin used to control blood sugar levels after meals.",
+    "indications": [
+      "Type 1 diabetes",
+      "Type 2 diabetes"
+    ],
+    "precautions": [
+      "Monitor blood glucose regularly",
+      "Inject before meals"
+    ],
+    "sideEffects": [
+      "Low blood sugar",
+      "Injection site reaction",
+      "Weight gain"
+    ],
+    "variants": [
+      {
+        "form": "Injection",
+        "strength": "100 IU/ml",
+        "route": "Subcutaneous",
+        "pricing": {
+          "janAushadhi": {
+            "price": 280,
+            "packSize": "1 vial",
+            "unitPrice": 280.0
+          },
+          "brands": [
+            {
+              "name": "Apidra",
+              "manufacturer": "Sanofi",
+              "price": 760,
+              "packSize": "1 vial",
+              "unitPrice": 760.0
+            },
+            {
+              "name": "Glulisine",
+              "manufacturer": "Biocon",
+              "price": 710,
+              "packSize": "1 vial",
+              "unitPrice": 710.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "insulin-lispro"
+      },
+      {
+        "slug": "insulin-aspart"
+      }
+    ],
+    "searchTags": [
+      "diabetes",
+      "insulin"
+    ]
+  },
+  {
+    "genericName": "Canagliflozin",
+    "slug": "canagliflozin",
+    "category": "Antidiabetic (SGLT2 Inhibitor)",
+    "prescriptionRequired": true,
+    "description": "Used to lower blood sugar levels in type 2 diabetes by increasing glucose excretion.",
+    "indications": [
+      "Type 2 diabetes"
+    ],
+    "precautions": [
+      "Monitor kidney function",
+      "Maintain hydration"
+    ],
+    "sideEffects": [
+      "Frequent urination",
+      "Urinary infection",
+      "Dizziness"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "100 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 95,
+            "packSize": "10 tablets",
+            "unitPrice": 9.5
+          },
+          "brands": [
+            {
+              "name": "Invokana",
+              "manufacturer": "Janssen",
+              "price": 320,
+              "packSize": "10 tablets",
+              "unitPrice": 32.0
+            },
+            {
+              "name": "Canarise",
+              "manufacturer": "Eris",
+              "price": 260,
+              "packSize": "10 tablets",
+              "unitPrice": 26.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "dapagliflozin"
+      },
+      {
+        "slug": "empagliflozin"
+      }
+    ],
+    "searchTags": [
+      "diabetes",
+      "blood sugar"
+    ]
+  },
+  {
+    "genericName": "Dapagliflozin",
+    "slug": "dapagliflozin",
+    "category": "Antidiabetic (SGLT2 Inhibitor)",
+    "prescriptionRequired": true,
+    "description": "Used to control blood sugar in type 2 diabetes and reduce heart failure risk.",
+    "indications": [
+      "Type 2 diabetes",
+      "Heart failure"
+    ],
+    "precautions": [
+      "Monitor kidney function",
+      "Maintain hydration"
+    ],
+    "sideEffects": [
+      "Frequent urination",
+      "Dehydration",
+      "Urinary infection"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 90,
+            "packSize": "10 tablets",
+            "unitPrice": 9.0
+          },
+          "brands": [
+            {
+              "name": "Forxiga",
+              "manufacturer": "AstraZeneca",
+              "price": 310,
+              "packSize": "10 tablets",
+              "unitPrice": 31.0
+            },
+            {
+              "name": "Dapaone",
+              "manufacturer": "Sun Pharma",
+              "price": 240,
+              "packSize": "10 tablets",
+              "unitPrice": 24.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "canagliflozin"
+      },
+      {
+        "slug": "empagliflozin"
+      }
+    ],
+    "searchTags": [
+      "diabetes",
+      "blood sugar"
+    ]
+  },
+  {
+    "genericName": "Empagliflozin",
+    "slug": "empagliflozin",
+    "category": "Antidiabetic (SGLT2 Inhibitor)",
+    "prescriptionRequired": true,
+    "description": "Used to lower blood sugar levels and reduce cardiovascular risk in diabetes.",
+    "indications": [
+      "Type 2 diabetes",
+      "Heart disease prevention"
+    ],
+    "precautions": [
+      "Monitor kidney function",
+      "Stay hydrated"
+    ],
+    "sideEffects": [
+      "Frequent urination",
+      "Dizziness",
+      "Urinary infection"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 92,
+            "packSize": "10 tablets",
+            "unitPrice": 9.2
+          },
+          "brands": [
+            {
+              "name": "Jardiance",
+              "manufacturer": "Boehringer Ingelheim",
+              "price": 320,
+              "packSize": "10 tablets",
+              "unitPrice": 32.0
+            },
+            {
+              "name": "Empaone",
+              "manufacturer": "Mankind",
+              "price": 260,
+              "packSize": "10 tablets",
+              "unitPrice": 26.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "dapagliflozin"
+      },
+      {
+        "slug": "canagliflozin"
+      }
+    ],
+    "searchTags": [
+      "diabetes",
+      "blood sugar"
+    ]
+  },
+  {
+    "genericName": "Linagliptin",
+    "slug": "linagliptin",
+    "category": "Antidiabetic (DPP-4 Inhibitor)",
+    "prescriptionRequired": true,
+    "description": "Used to control blood sugar levels in adults with type 2 diabetes.",
+    "indications": [
+      "Type 2 diabetes"
+    ],
+    "precautions": [
+      "Monitor blood glucose regularly",
+      "Consult doctor if pancreatitis symptoms occur"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Nausea",
+      "Upper respiratory infection"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "5 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 80,
+            "packSize": "10 tablets",
+            "unitPrice": 8.0
+          },
+          "brands": [
+            {
+              "name": "Trajenta",
+              "manufacturer": "Boehringer Ingelheim",
+              "price": 290,
+              "packSize": "10 tablets",
+              "unitPrice": 29.0
+            },
+            {
+              "name": "Linaglipt",
+              "manufacturer": "Lupin",
+              "price": 220,
+              "packSize": "10 tablets",
+              "unitPrice": 22.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "sitagliptin"
+      },
+      {
+        "slug": "vildagliptin"
+      }
+    ],
+    "searchTags": [
+      "diabetes",
+      "blood sugar"
+    ]
+  },
+  {
+    "genericName": "Vildagliptin",
+    "slug": "vildagliptin",
+    "category": "Antidiabetic (DPP-4 Inhibitor)",
+    "prescriptionRequired": true,
+    "description": "Used to control blood sugar levels in patients with type 2 diabetes.",
+    "indications": [
+      "Type 2 diabetes"
+    ],
+    "precautions": [
+      "Monitor liver function",
+      "Monitor blood glucose regularly"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Dizziness",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "50 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 75,
+            "packSize": "10 tablets",
+            "unitPrice": 7.5
+          },
+          "brands": [
+            {
+              "name": "Galvus",
+              "manufacturer": "Novartis",
+              "price": 280,
+              "packSize": "10 tablets",
+              "unitPrice": 28.0
+            },
+            {
+              "name": "Vildasmart",
+              "manufacturer": "Mankind",
+              "price": 220,
+              "packSize": "10 tablets",
+              "unitPrice": 22.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "sitagliptin"
+      },
+      {
+        "slug": "linagliptin"
+      }
+    ],
+    "searchTags": [
+      "diabetes",
+      "blood sugar"
+    ]
+  },
+  {
+    "genericName": "Teneligliptin",
+    "slug": "teneligliptin",
+    "category": "Antidiabetic (DPP-4 Inhibitor)",
+    "prescriptionRequired": true,
+    "description": "Used to control blood sugar levels in adults with type 2 diabetes.",
+    "indications": [
+      "Type 2 diabetes"
+    ],
+    "precautions": [
+      "Monitor blood glucose regularly",
+      "Consult doctor in kidney disease"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Constipation",
+      "Dizziness"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "20 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 60,
+            "packSize": "10 tablets",
+            "unitPrice": 6.0
+          },
+          "brands": [
+            {
+              "name": "Tenepure",
+              "manufacturer": "Mankind",
+              "price": 150,
+              "packSize": "10 tablets",
+              "unitPrice": 15.0
+            },
+            {
+              "name": "Ziten",
+              "manufacturer": "Glenmark",
+              "price": 180,
+              "packSize": "10 tablets",
+              "unitPrice": 18.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "sitagliptin"
+      },
+      {
+        "slug": "vildagliptin"
+      }
+    ],
+    "searchTags": [
+      "diabetes",
+      "blood sugar"
+    ]
+  },
+  {
+    "genericName": "Glipizide",
+    "slug": "glipizide",
+    "category": "Antidiabetic (Sulfonylurea)",
+    "prescriptionRequired": true,
+    "description": "Used to control blood sugar levels in people with type 2 diabetes.",
+    "indications": [
+      "Type 2 diabetes"
+    ],
+    "precautions": [
+      "Take with meals",
+      "Monitor blood sugar levels"
+    ],
+    "sideEffects": [
+      "Low blood sugar",
+      "Weight gain",
+      "Dizziness"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "5 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 18,
+            "packSize": "10 tablets",
+            "unitPrice": 1.8
+          },
+          "brands": [
+            {
+              "name": "Glucotrol",
+              "manufacturer": "Pfizer",
+              "price": 75,
+              "packSize": "10 tablets",
+              "unitPrice": 7.5
+            },
+            {
+              "name": "Glynase",
+              "manufacturer": "USV",
+              "price": 65,
+              "packSize": "10 tablets",
+              "unitPrice": 6.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "glimepiride"
+      },
+      {
+        "slug": "gliclazide"
+      }
+    ],
+    "searchTags": [
+      "diabetes",
+      "blood sugar"
+    ]
+  },
+  {
+    "genericName": "Chlorthalidone",
+    "slug": "chlorthalidone",
+    "category": "Diuretic",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and fluid retention.",
+    "indications": [
+      "Hypertension",
+      "Edema"
+    ],
+    "precautions": [
+      "Monitor electrolytes",
+      "Avoid dehydration"
+    ],
+    "sideEffects": [
+      "Frequent urination",
+      "Low potassium",
+      "Dizziness"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "25 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 20,
+            "packSize": "10 tablets",
+            "unitPrice": 2.0
+          },
+          "brands": [
+            {
+              "name": "Hygroton",
+              "manufacturer": "Novartis",
+              "price": 75,
+              "packSize": "10 tablets",
+              "unitPrice": 7.5
+            },
+            {
+              "name": "Chlorthal",
+              "manufacturer": "Sun Pharma",
+              "price": 60,
+              "packSize": "10 tablets",
+              "unitPrice": 6.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "hydrochlorothiazide"
+      },
+      {
+        "slug": "furosemide"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "diuretic"
+    ]
+  },
+  {
+    "genericName": "Bisoprolol",
+    "slug": "bisoprolol",
+    "category": "Beta Blocker",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and heart failure.",
+    "indications": [
+      "Hypertension",
+      "Heart failure"
+    ],
+    "precautions": [
+      "Do not stop suddenly",
+      "Monitor heart rate"
+    ],
+    "sideEffects": [
+      "Fatigue",
+      "Dizziness",
+      "Slow heartbeat"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "5 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 28,
+            "packSize": "10 tablets",
+            "unitPrice": 2.8
+          },
+          "brands": [
+            {
+              "name": "Concor",
+              "manufacturer": "Merck",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Biselect",
+              "manufacturer": "Sun Pharma",
+              "price": 80,
+              "packSize": "10 tablets",
+              "unitPrice": 8.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "atenolol"
+      },
+      {
+        "slug": "metoprolol"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Carvedilol",
+    "slug": "carvedilol",
+    "category": "Beta Blocker",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and heart failure.",
+    "indications": [
+      "Hypertension",
+      "Heart failure"
+    ],
+    "precautions": [
+      "Monitor blood pressure regularly",
+      "Do not stop suddenly"
+    ],
+    "sideEffects": [
+      "Dizziness",
+      "Fatigue",
+      "Low blood pressure"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "6.25 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 30,
+            "packSize": "10 tablets",
+            "unitPrice": 3.0
+          },
+          "brands": [
+            {
+              "name": "Carca",
+              "manufacturer": "Intas",
+              "price": 85,
+              "packSize": "10 tablets",
+              "unitPrice": 8.5
+            },
+            {
+              "name": "Coreg",
+              "manufacturer": "GSK",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "bisoprolol"
+      },
+      {
+        "slug": "metoprolol"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Nebivolol",
+    "slug": "nebivolol",
+    "category": "Beta Blocker",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and improve heart function.",
+    "indications": [
+      "Hypertension"
+    ],
+    "precautions": [
+      "Monitor heart rate",
+      "Avoid sudden withdrawal"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Fatigue",
+      "Dizziness"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "5 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 35,
+            "packSize": "10 tablets",
+            "unitPrice": 3.5
+          },
+          "brands": [
+            {
+              "name": "Nebicard",
+              "manufacturer": "Torrent",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Bystolic",
+              "manufacturer": "Abbott",
+              "price": 120,
+              "packSize": "10 tablets",
+              "unitPrice": 12.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "bisoprolol"
+      },
+      {
+        "slug": "atenolol"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Ivabradine",
+    "slug": "ivabradine",
+    "category": "Heart Rate Reducer",
+    "prescriptionRequired": true,
+    "description": "Used to treat chronic heart failure and reduce heart rate.",
+    "indications": [
+      "Heart failure",
+      "Angina"
+    ],
+    "precautions": [
+      "Monitor heart rate",
+      "Avoid grapefruit juice"
+    ],
+    "sideEffects": [
+      "Bradycardia",
+      "Blurred vision",
+      "Dizziness"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "5 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 70,
+            "packSize": "10 tablets",
+            "unitPrice": 7.0
+          },
+          "brands": [
+            {
+              "name": "Ivabrad",
+              "manufacturer": "Lupin",
+              "price": 180,
+              "packSize": "10 tablets",
+              "unitPrice": 18.0
+            },
+            {
+              "name": "Corlanor",
+              "manufacturer": "Servier",
+              "price": 220,
+              "packSize": "10 tablets",
+              "unitPrice": 22.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "bisoprolol"
+      },
+      {
+        "slug": "metoprolol"
+      }
+    ],
+    "searchTags": [
+      "heart",
+      "angina"
+    ]
+  },
+  {
+    "genericName": "Ranolazine",
+    "slug": "ranolazine",
+    "category": "Antianginal",
+    "prescriptionRequired": true,
+    "description": "Used to treat chronic angina (chest pain).",
+    "indications": [
+      "Chronic angina"
+    ],
+    "precautions": [
+      "Monitor ECG",
+      "Avoid grapefruit juice"
+    ],
+    "sideEffects": [
+      "Dizziness",
+      "Headache",
+      "Constipation"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "500 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 80,
+            "packSize": "10 tablets",
+            "unitPrice": 8.0
+          },
+          "brands": [
+            {
+              "name": "Ranexa",
+              "manufacturer": "Gilead",
+              "price": 260,
+              "packSize": "10 tablets",
+              "unitPrice": 26.0
+            },
+            {
+              "name": "Ranolaz",
+              "manufacturer": "Sun Pharma",
+              "price": 220,
+              "packSize": "10 tablets",
+              "unitPrice": 22.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "nitroglycerin"
+      },
+      {
+        "slug": "isosorbide"
+      }
+    ],
+    "searchTags": [
+      "angina",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Isosorbide Mononitrate",
+    "slug": "isosorbide-mononitrate",
+    "category": "Nitrate",
+    "prescriptionRequired": true,
+    "description": "Used to prevent chest pain (angina) by relaxing blood vessels.",
+    "indications": [
+      "Angina"
+    ],
+    "precautions": [
+      "Avoid alcohol",
+      "Do not crush tablets"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Dizziness",
+      "Low blood pressure"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "30 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 28,
+            "packSize": "10 tablets",
+            "unitPrice": 2.8
+          },
+          "brands": [
+            {
+              "name": "Imdur",
+              "manufacturer": "AstraZeneca",
+              "price": 110,
+              "packSize": "10 tablets",
+              "unitPrice": 11.0
+            },
+            {
+              "name": "Ismo",
+              "manufacturer": "Abbott",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "nitroglycerin"
+      },
+      {
+        "slug": "ranolazine"
+      }
+    ],
+    "searchTags": [
+      "angina",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Nitroglycerin",
+    "slug": "nitroglycerin",
+    "category": "Nitrate / Vasodilator",
+    "prescriptionRequired": true,
+    "description": "Used to treat and prevent chest pain (angina) by relaxing blood vessels.",
+    "indications": [
+      "Angina",
+      "Heart disease"
+    ],
+    "precautions": [
+      "Avoid alcohol",
+      "Do not take with sildenafil"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Dizziness",
+      "Low blood pressure"
+    ],
+    "variants": [
+      {
+        "form": "Sublingual Tablet",
+        "strength": "0.5 mg",
+        "route": "Sublingual",
+        "pricing": {
+          "janAushadhi": {
+            "price": 35,
+            "packSize": "10 tablets",
+            "unitPrice": 3.5
+          },
+          "brands": [
+            {
+              "name": "Nitrostat",
+              "manufacturer": "Pfizer",
+              "price": 120,
+              "packSize": "10 tablets",
+              "unitPrice": 12.0
+            },
+            {
+              "name": "Nitrofix",
+              "manufacturer": "Sun Pharma",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "isosorbide-mononitrate"
+      },
+      {
+        "slug": "ranolazine"
+      }
+    ],
+    "searchTags": [
+      "angina",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Aspirin + Clopidogrel",
+    "slug": "aspirin-clopidogrel",
+    "category": "Antiplatelet Combination",
+    "prescriptionRequired": true,
+    "description": "Combination medicine used to prevent blood clots and reduce heart attack risk.",
+    "indications": [
+      "Heart attack prevention",
+      "Stroke prevention"
+    ],
+    "precautions": [
+      "Avoid bleeding injuries",
+      "Consult doctor before surgery"
+    ],
+    "sideEffects": [
+      "Bleeding",
+      "Bruising",
+      "Stomach upset"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "75 mg + 75 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 30,
+            "packSize": "10 tablets",
+            "unitPrice": 3.0
+          },
+          "brands": [
+            {
+              "name": "Clopivas AP",
+              "manufacturer": "Cipla",
+              "price": 120,
+              "packSize": "10 tablets",
+              "unitPrice": 12.0
+            },
+            {
+              "name": "Deplatt A",
+              "manufacturer": "Torrent",
+              "price": 110,
+              "packSize": "10 tablets",
+              "unitPrice": 11.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "clopidogrel"
+      },
+      {
+        "slug": "ticagrelor"
+      }
+    ],
+    "searchTags": [
+      "blood thinner",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Ticagrelor",
+    "slug": "ticagrelor",
+    "category": "Antiplatelet",
+    "prescriptionRequired": true,
+    "description": "Used to prevent blood clots in patients with heart disease.",
+    "indications": [
+      "Heart attack prevention",
+      "Stroke prevention"
+    ],
+    "precautions": [
+      "Avoid bleeding injuries",
+      "Monitor bleeding risk"
+    ],
+    "sideEffects": [
+      "Bleeding",
+      "Shortness of breath",
+      "Dizziness"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "90 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 120,
+            "packSize": "10 tablets",
+            "unitPrice": 12.0
+          },
+          "brands": [
+            {
+              "name": "Brilinta",
+              "manufacturer": "AstraZeneca",
+              "price": 350,
+              "packSize": "10 tablets",
+              "unitPrice": 35.0
+            },
+            {
+              "name": "Ticava",
+              "manufacturer": "Sun Pharma",
+              "price": 300,
+              "packSize": "10 tablets",
+              "unitPrice": 30.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "clopidogrel"
+      },
+      {
+        "slug": "prasugrel"
+      }
+    ],
+    "searchTags": [
+      "blood thinner",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Prasugrel",
+    "slug": "prasugrel",
+    "category": "Antiplatelet",
+    "prescriptionRequired": true,
+    "description": "Used to prevent blood clots in patients undergoing angioplasty.",
+    "indications": [
+      "Heart attack prevention",
+      "Angioplasty patients"
+    ],
+    "precautions": [
+      "Avoid bleeding injuries",
+      "Consult doctor before surgery"
+    ],
+    "sideEffects": [
+      "Bleeding",
+      "Bruising",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 110,
+            "packSize": "10 tablets",
+            "unitPrice": 11.0
+          },
+          "brands": [
+            {
+              "name": "Effient",
+              "manufacturer": "Eli Lilly",
+              "price": 330,
+              "packSize": "10 tablets",
+              "unitPrice": 33.0
+            },
+            {
+              "name": "Prasurel",
+              "manufacturer": "Lupin",
+              "price": 280,
+              "packSize": "10 tablets",
+              "unitPrice": 28.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "ticagrelor"
+      },
+      {
+        "slug": "clopidogrel"
+      }
+    ],
+    "searchTags": [
+      "blood thinner",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Warfarin",
+    "slug": "warfarin",
+    "category": "Anticoagulant",
+    "prescriptionRequired": true,
+    "description": "Used to prevent blood clots in conditions like deep vein thrombosis.",
+    "indications": [
+      "Blood clot prevention",
+      "Atrial fibrillation"
+    ],
+    "precautions": [
+      "Monitor INR regularly",
+      "Avoid sudden diet changes"
+    ],
+    "sideEffects": [
+      "Bleeding",
+      "Bruising",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "5 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 25,
+            "packSize": "10 tablets",
+            "unitPrice": 2.5
+          },
+          "brands": [
+            {
+              "name": "Coumadin",
+              "manufacturer": "Bristol Myers Squibb",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Warf",
+              "manufacturer": "Cipla",
+              "price": 80,
+              "packSize": "10 tablets",
+              "unitPrice": 8.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "apixaban"
+      },
+      {
+        "slug": "rivaroxaban"
+      }
+    ],
+    "searchTags": [
+      "blood thinner",
+      "clot"
+    ]
+  },
+  {
+    "genericName": "Apixaban",
+    "slug": "apixaban",
+    "category": "Anticoagulant",
+    "prescriptionRequired": true,
+    "description": "Used to prevent blood clots and reduce stroke risk in patients with atrial fibrillation.",
+    "indications": [
+      "Atrial fibrillation",
+      "Blood clot prevention"
+    ],
+    "precautions": [
+      "Avoid bleeding injuries",
+      "Consult doctor before surgery"
+    ],
+    "sideEffects": [
+      "Bleeding",
+      "Bruising",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "5 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 140,
+            "packSize": "10 tablets",
+            "unitPrice": 14.0
+          },
+          "brands": [
+            {
+              "name": "Eliquis",
+              "manufacturer": "Pfizer",
+              "price": 420,
+              "packSize": "10 tablets",
+              "unitPrice": 42.0
+            },
+            {
+              "name": "Apigat",
+              "manufacturer": "Natco",
+              "price": 350,
+              "packSize": "10 tablets",
+              "unitPrice": 35.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "warfarin"
+      },
+      {
+        "slug": "rivaroxaban"
+      }
+    ],
+    "searchTags": [
+      "blood thinner",
+      "clot"
+    ]
+  },
+  {
+    "genericName": "Rivaroxaban",
+    "slug": "rivaroxaban",
+    "category": "Anticoagulant",
+    "prescriptionRequired": true,
+    "description": "Used to treat and prevent blood clots in conditions like deep vein thrombosis.",
+    "indications": [
+      "Deep vein thrombosis",
+      "Pulmonary embolism"
+    ],
+    "precautions": [
+      "Monitor bleeding risk",
+      "Avoid injury"
+    ],
+    "sideEffects": [
+      "Bleeding",
+      "Bruising",
+      "Dizziness"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 150,
+            "packSize": "10 tablets",
+            "unitPrice": 15.0
+          },
+          "brands": [
+            {
+              "name": "Xarelto",
+              "manufacturer": "Bayer",
+              "price": 450,
+              "packSize": "10 tablets",
+              "unitPrice": 45.0
+            },
+            {
+              "name": "Rivaxa",
+              "manufacturer": "Sun Pharma",
+              "price": 380,
+              "packSize": "10 tablets",
+              "unitPrice": 38.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "apixaban"
+      },
+      {
+        "slug": "warfarin"
+      }
+    ],
+    "searchTags": [
+      "blood thinner",
+      "clot"
+    ]
+  },
+  {
+    "genericName": "Dabigatran",
+    "slug": "dabigatran",
+    "category": "Anticoagulant",
+    "prescriptionRequired": true,
+    "description": "Used to prevent stroke and blood clots in patients with atrial fibrillation.",
+    "indications": [
+      "Atrial fibrillation",
+      "Blood clot prevention"
+    ],
+    "precautions": [
+      "Avoid bleeding injuries",
+      "Consult doctor before surgery"
+    ],
+    "sideEffects": [
+      "Bleeding",
+      "Stomach upset",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Capsule",
+        "strength": "150 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 155,
+            "packSize": "10 capsules",
+            "unitPrice": 15.5
+          },
+          "brands": [
+            {
+              "name": "Pradaxa",
+              "manufacturer": "Boehringer Ingelheim",
+              "price": 460,
+              "packSize": "10 capsules",
+              "unitPrice": 46.0
+            },
+            {
+              "name": "Dabistar",
+              "manufacturer": "Lupin",
+              "price": 390,
+              "packSize": "10 capsules",
+              "unitPrice": 39.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "apixaban"
+      },
+      {
+        "slug": "rivaroxaban"
+      }
+    ],
+    "searchTags": [
+      "blood thinner",
+      "clot"
+    ]
+  },
+  {
+    "genericName": "Enoxaparin",
+    "slug": "enoxaparin",
+    "category": "Anticoagulant (LMWH)",
+    "prescriptionRequired": true,
+    "description": "Used to prevent and treat blood clots in conditions like deep vein thrombosis.",
+    "indications": [
+      "Deep vein thrombosis",
+      "Pulmonary embolism"
+    ],
+    "precautions": [
+      "Monitor bleeding risk",
+      "Use under medical supervision"
+    ],
+    "sideEffects": [
+      "Injection site pain",
+      "Bleeding",
+      "Bruising"
+    ],
+    "variants": [
+      {
+        "form": "Injection",
+        "strength": "40 mg",
+        "route": "Subcutaneous",
+        "pricing": {
+          "janAushadhi": {
+            "price": 300,
+            "packSize": "1 syringe",
+            "unitPrice": 300.0
+          },
+          "brands": [
+            {
+              "name": "Clexane",
+              "manufacturer": "Sanofi",
+              "price": 720,
+              "packSize": "1 syringe",
+              "unitPrice": 720.0
+            },
+            {
+              "name": "Enoxarin",
+              "manufacturer": "Glenmark",
+              "price": 640,
+              "packSize": "1 syringe",
+              "unitPrice": 640.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "heparin"
+      },
+      {
+        "slug": "dabigatran"
+      }
+    ],
+    "searchTags": [
+      "blood thinner",
+      "clot"
+    ]
+  },
+  {
+    "genericName": "Heparin",
+    "slug": "heparin",
+    "category": "Anticoagulant",
+    "prescriptionRequired": true,
+    "description": "Used to prevent blood clots in medical conditions and surgeries.",
+    "indications": [
+      "Blood clot prevention",
+      "Surgery prophylaxis"
+    ],
+    "precautions": [
+      "Monitor clotting time",
+      "Use under medical supervision"
+    ],
+    "sideEffects": [
+      "Bleeding",
+      "Injection site irritation",
+      "Bruising"
+    ],
+    "variants": [
+      {
+        "form": "Injection",
+        "strength": "5000 IU/ml",
+        "route": "Intravenous / Subcutaneous",
+        "pricing": {
+          "janAushadhi": {
+            "price": 280,
+            "packSize": "1 vial",
+            "unitPrice": 280.0
+          },
+          "brands": [
+            {
+              "name": "Hepflush",
+              "manufacturer": "Pfizer",
+              "price": 680,
+              "packSize": "1 vial",
+              "unitPrice": 680.0
+            },
+            {
+              "name": "Heparin Sodium",
+              "manufacturer": "Gland Pharma",
+              "price": 620,
+              "packSize": "1 vial",
+              "unitPrice": 620.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "enoxaparin"
+      },
+      {
+        "slug": "warfarin"
+      }
+    ],
+    "searchTags": [
+      "blood thinner",
+      "clot"
+    ]
+  },
+  {
+    "genericName": "Atorvastatin + Aspirin",
+    "slug": "atorvastatin-aspirin",
+    "category": "Cardiovascular Combination",
+    "prescriptionRequired": true,
+    "description": "Combination medicine used to reduce cholesterol and prevent heart attacks.",
+    "indications": [
+      "Heart disease prevention",
+      "High cholesterol"
+    ],
+    "precautions": [
+      "Avoid alcohol",
+      "Monitor liver function"
+    ],
+    "sideEffects": [
+      "Stomach upset",
+      "Muscle pain",
+      "Headache"
+    ],
+    "variants": [
+      {
+        "form": "Capsule",
+        "strength": "10 mg + 75 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 40,
+            "packSize": "10 capsules",
+            "unitPrice": 4.0
+          },
+          "brands": [
+            {
+              "name": "Ecosprin AV",
+              "manufacturer": "USV",
+              "price": 140,
+              "packSize": "10 capsules",
+              "unitPrice": 14.0
+            },
+            {
+              "name": "Aztor ASP",
+              "manufacturer": "Sun Pharma",
+              "price": 120,
+              "packSize": "10 capsules",
+              "unitPrice": 12.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "atorvastatin"
+      },
+      {
+        "slug": "aspirin-clopidogrel"
+      }
+    ],
+    "searchTags": [
+      "cholesterol",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Telmisartan",
+    "slug": "telmisartan",
+    "category": "Antihypertensive (ARB)",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and reduce risk of heart disease.",
+    "indications": [
+      "Hypertension"
+    ],
+    "precautions": [
+      "Monitor kidney function",
+      "Avoid during pregnancy"
+    ],
+    "sideEffects": [
+      "Dizziness",
+      "Low blood pressure",
+      "Fatigue"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "40 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 35,
+            "packSize": "10 tablets",
+            "unitPrice": 3.5
+          },
+          "brands": [
+            {
+              "name": "Telma",
+              "manufacturer": "Glenmark",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Micardis",
+              "manufacturer": "Boehringer Ingelheim",
+              "price": 120,
+              "packSize": "10 tablets",
+              "unitPrice": 12.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "losartan"
+      },
+      {
+        "slug": "valsartan"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Olmesartan",
+    "slug": "olmesartan",
+    "category": "Antihypertensive (ARB)",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and improve cardiovascular health.",
+    "indications": [
+      "Hypertension"
+    ],
+    "precautions": [
+      "Monitor kidney function",
+      "Avoid dehydration"
+    ],
+    "sideEffects": [
+      "Dizziness",
+      "Low blood pressure",
+      "Fatigue"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "20 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 38,
+            "packSize": "10 tablets",
+            "unitPrice": 3.8
+          },
+          "brands": [
+            {
+              "name": "Olmetec",
+              "manufacturer": "Daiichi Sankyo",
+              "price": 110,
+              "packSize": "10 tablets",
+              "unitPrice": 11.0
+            },
+            {
+              "name": "Olmezest",
+              "manufacturer": "Sun Pharma",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "telmisartan"
+      },
+      {
+        "slug": "losartan"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Candesartan",
+    "slug": "candesartan",
+    "category": "Antihypertensive (ARB)",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and heart failure.",
+    "indications": [
+      "Hypertension",
+      "Heart failure"
+    ],
+    "precautions": [
+      "Monitor kidney function",
+      "Avoid pregnancy"
+    ],
+    "sideEffects": [
+      "Dizziness",
+      "Fatigue",
+      "Low blood pressure"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "8 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 36,
+            "packSize": "10 tablets",
+            "unitPrice": 3.6
+          },
+          "brands": [
+            {
+              "name": "Atacand",
+              "manufacturer": "AstraZeneca",
+              "price": 115,
+              "packSize": "10 tablets",
+              "unitPrice": 11.5
+            },
+            {
+              "name": "Candesar",
+              "manufacturer": "Sun Pharma",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "telmisartan"
+      },
+      {
+        "slug": "valsartan"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Irbesartan",
+    "slug": "irbesartan",
+    "category": "Antihypertensive (ARB)",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and protect kidney function in diabetes.",
+    "indications": [
+      "Hypertension",
+      "Diabetic nephropathy"
+    ],
+    "precautions": [
+      "Monitor kidney function",
+      "Avoid pregnancy"
+    ],
+    "sideEffects": [
+      "Dizziness",
+      "Low blood pressure",
+      "Fatigue"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "150 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 37,
+            "packSize": "10 tablets",
+            "unitPrice": 3.7
+          },
+          "brands": [
+            {
+              "name": "Avapro",
+              "manufacturer": "Sanofi",
+              "price": 120,
+              "packSize": "10 tablets",
+              "unitPrice": 12.0
+            },
+            {
+              "name": "Irbest",
+              "manufacturer": "Sun Pharma",
+              "price": 100,
+              "packSize": "10 tablets",
+              "unitPrice": 10.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "telmisartan"
+      },
+      {
+        "slug": "losartan"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "kidney"
+    ]
+  },
+  {
+    "genericName": "Amlodipine",
+    "slug": "amlodipine",
+    "category": "Calcium Channel Blocker",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and chest pain (angina).",
+    "indications": [
+      "Hypertension",
+      "Angina"
+    ],
+    "precautions": [
+      "Monitor blood pressure",
+      "Avoid sudden standing"
+    ],
+    "sideEffects": [
+      "Swelling of ankles",
+      "Dizziness",
+      "Flushing"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "5 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 20,
+            "packSize": "10 tablets",
+            "unitPrice": 2.0
+          },
+          "brands": [
+            {
+              "name": "Amlong",
+              "manufacturer": "Micro Labs",
+              "price": 60,
+              "packSize": "10 tablets",
+              "unitPrice": 6.0
+            },
+            {
+              "name": "Norvasc",
+              "manufacturer": "Pfizer",
+              "price": 85,
+              "packSize": "10 tablets",
+              "unitPrice": 8.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "nifedipine"
+      },
+      {
+        "slug": "felodipine"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Nifedipine",
+    "slug": "nifedipine",
+    "category": "Calcium Channel Blocker",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and angina.",
+    "indications": [
+      "Hypertension",
+      "Angina"
+    ],
+    "precautions": [
+      "Avoid grapefruit juice",
+      "Monitor blood pressure"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Flushing",
+      "Dizziness"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 22,
+            "packSize": "10 tablets",
+            "unitPrice": 2.2
+          },
+          "brands": [
+            {
+              "name": "Adalat",
+              "manufacturer": "Bayer",
+              "price": 75,
+              "packSize": "10 tablets",
+              "unitPrice": 7.5
+            },
+            {
+              "name": "Nicardia",
+              "manufacturer": "J B Chemicals",
+              "price": 65,
+              "packSize": "10 tablets",
+              "unitPrice": 6.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "amlodipine"
+      },
+      {
+        "slug": "felodipine"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Felodipine",
+    "slug": "felodipine",
+    "category": "Calcium Channel Blocker",
+    "prescriptionRequired": true,
+    "description": "Used to treat hypertension by relaxing blood vessels.",
+    "indications": [
+      "Hypertension"
+    ],
+    "precautions": [
+      "Monitor blood pressure",
+      "Avoid grapefruit juice"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Flushing",
+      "Swelling"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "5 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 25,
+            "packSize": "10 tablets",
+            "unitPrice": 2.5
+          },
+          "brands": [
+            {
+              "name": "Plendil",
+              "manufacturer": "AstraZeneca",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Felotens",
+              "manufacturer": "Sun Pharma",
+              "price": 80,
+              "packSize": "10 tablets",
+              "unitPrice": 8.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "amlodipine"
+      },
+      {
+        "slug": "nifedipine"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Diltiazem",
+    "slug": "diltiazem",
+    "category": "Calcium Channel Blocker",
+    "prescriptionRequired": true,
+    "description": "Used to treat hypertension, angina, and certain heart rhythm disorders.",
+    "indications": [
+      "Hypertension",
+      "Angina",
+      "Arrhythmia"
+    ],
+    "precautions": [
+      "Monitor heart rate",
+      "Avoid alcohol"
+    ],
+    "sideEffects": [
+      "Dizziness",
+      "Headache",
+      "Slow heartbeat"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "60 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 28,
+            "packSize": "10 tablets",
+            "unitPrice": 2.8
+          },
+          "brands": [
+            {
+              "name": "Cardizem",
+              "manufacturer": "Pfizer",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Dilzem",
+              "manufacturer": "Sun Pharma",
+              "price": 85,
+              "packSize": "10 tablets",
+              "unitPrice": 8.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "verapamil"
+      },
+      {
+        "slug": "amlodipine"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Verapamil",
+    "slug": "verapamil",
+    "category": "Calcium Channel Blocker",
+    "prescriptionRequired": true,
+    "description": "Used to treat hypertension, angina, and heart rhythm disorders.",
+    "indications": [
+      "Hypertension",
+      "Angina",
+      "Arrhythmia"
+    ],
+    "precautions": [
+      "Monitor heart rate",
+      "Avoid alcohol"
+    ],
+    "sideEffects": [
+      "Constipation",
+      "Dizziness",
+      "Low blood pressure"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "80 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 30,
+            "packSize": "10 tablets",
+            "unitPrice": 3.0
+          },
+          "brands": [
+            {
+              "name": "Calan",
+              "manufacturer": "Abbott",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Verapress",
+              "manufacturer": "Sun Pharma",
+              "price": 80,
+              "packSize": "10 tablets",
+              "unitPrice": 8.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "diltiazem"
+      },
+      {
+        "slug": "amlodipine"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Lisinopril",
+    "slug": "lisinopril",
+    "category": "ACE Inhibitor",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and heart failure.",
+    "indications": [
+      "Hypertension",
+      "Heart failure"
+    ],
+    "precautions": [
+      "Monitor kidney function",
+      "Avoid during pregnancy"
+    ],
+    "sideEffects": [
+      "Dry cough",
+      "Dizziness",
+      "Low blood pressure"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 24,
+            "packSize": "10 tablets",
+            "unitPrice": 2.4
+          },
+          "brands": [
+            {
+              "name": "Zestril",
+              "manufacturer": "AstraZeneca",
+              "price": 85,
+              "packSize": "10 tablets",
+              "unitPrice": 8.5
+            },
+            {
+              "name": "Listril",
+              "manufacturer": "Torrent",
+              "price": 70,
+              "packSize": "10 tablets",
+              "unitPrice": 7.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "enalapril"
+      },
+      {
+        "slug": "ramipril"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Enalapril",
+    "slug": "enalapril",
+    "category": "ACE Inhibitor",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and heart failure.",
+    "indications": [
+      "Hypertension",
+      "Heart failure"
+    ],
+    "precautions": [
+      "Monitor kidney function",
+      "Avoid pregnancy"
+    ],
+    "sideEffects": [
+      "Dry cough",
+      "Dizziness",
+      "Low blood pressure"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "5 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 22,
+            "packSize": "10 tablets",
+            "unitPrice": 2.2
+          },
+          "brands": [
+            {
+              "name": "Envas",
+              "manufacturer": "Intas",
+              "price": 65,
+              "packSize": "10 tablets",
+              "unitPrice": 6.5
+            },
+            {
+              "name": "Renitec",
+              "manufacturer": "MSD",
+              "price": 90,
+              "packSize": "10 tablets",
+              "unitPrice": 9.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "lisinopril"
+      },
+      {
+        "slug": "ramipril"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Ramipril",
+    "slug": "ramipril",
+    "category": "ACE Inhibitor",
+    "prescriptionRequired": true,
+    "description": "Used to treat hypertension and reduce risk of heart attack.",
+    "indications": [
+      "Hypertension",
+      "Heart attack prevention"
+    ],
+    "precautions": [
+      "Monitor kidney function",
+      "Avoid pregnancy"
+    ],
+    "sideEffects": [
+      "Dry cough",
+      "Dizziness",
+      "Fatigue"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "5 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 26,
+            "packSize": "10 tablets",
+            "unitPrice": 2.6
+          },
+          "brands": [
+            {
+              "name": "Cardace",
+              "manufacturer": "Sanofi",
+              "price": 85,
+              "packSize": "10 tablets",
+              "unitPrice": 8.5
+            },
+            {
+              "name": "Ramistar",
+              "manufacturer": "Lupin",
+              "price": 70,
+              "packSize": "10 tablets",
+              "unitPrice": 7.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "enalapril"
+      },
+      {
+        "slug": "lisinopril"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Perindopril",
+    "slug": "perindopril",
+    "category": "ACE Inhibitor",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and heart disease.",
+    "indications": [
+      "Hypertension",
+      "Heart disease"
+    ],
+    "precautions": [
+      "Monitor kidney function",
+      "Avoid pregnancy"
+    ],
+    "sideEffects": [
+      "Dry cough",
+      "Dizziness",
+      "Headache"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "4 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 30,
+            "packSize": "10 tablets",
+            "unitPrice": 3.0
+          },
+          "brands": [
+            {
+              "name": "Coversyl",
+              "manufacturer": "Servier",
+              "price": 110,
+              "packSize": "10 tablets",
+              "unitPrice": 11.0
+            },
+            {
+              "name": "Perinorm",
+              "manufacturer": "Sun Pharma",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "ramipril"
+      },
+      {
+        "slug": "enalapril"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Benazepril",
+    "slug": "benazepril",
+    "category": "ACE Inhibitor",
+    "prescriptionRequired": true,
+    "description": "Used to treat hypertension and protect heart function.",
+    "indications": [
+      "Hypertension"
+    ],
+    "precautions": [
+      "Monitor kidney function",
+      "Avoid pregnancy"
+    ],
+    "sideEffects": [
+      "Dry cough",
+      "Dizziness",
+      "Fatigue"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 28,
+            "packSize": "10 tablets",
+            "unitPrice": 2.8
+          },
+          "brands": [
+            {
+              "name": "Lotensin",
+              "manufacturer": "Novartis",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Benace",
+              "manufacturer": "Sun Pharma",
+              "price": 80,
+              "packSize": "10 tablets",
+              "unitPrice": 8.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "ramipril"
+      },
+      {
+        "slug": "enalapril"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Hydralazine",
+    "slug": "hydralazine",
+    "category": "Vasodilator",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure by relaxing blood vessels.",
+    "indications": [
+      "Hypertension"
+    ],
+    "precautions": [
+      "Monitor blood pressure",
+      "Avoid sudden standing"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Dizziness",
+      "Palpitations"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "25 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 20,
+            "packSize": "10 tablets",
+            "unitPrice": 2.0
+          },
+          "brands": [
+            {
+              "name": "Apresoline",
+              "manufacturer": "Novartis",
+              "price": 75,
+              "packSize": "10 tablets",
+              "unitPrice": 7.5
+            },
+            {
+              "name": "Hydrazin",
+              "manufacturer": "Sun Pharma",
+              "price": 60,
+              "packSize": "10 tablets",
+              "unitPrice": 6.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "minoxidil"
+      },
+      {
+        "slug": "labetalol"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Minoxidil",
+    "slug": "minoxidil",
+    "category": "Vasodilator",
+    "prescriptionRequired": true,
+    "description": "Used to treat severe hypertension when other medications are not effective.",
+    "indications": [
+      "Severe hypertension"
+    ],
+    "precautions": [
+      "Monitor blood pressure",
+      "Use under medical supervision"
+    ],
+    "sideEffects": [
+      "Fluid retention",
+      "Rapid heartbeat",
+      "Headache"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "5 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 28,
+            "packSize": "10 tablets",
+            "unitPrice": 2.8
+          },
+          "brands": [
+            {
+              "name": "Loniten",
+              "manufacturer": "Pfizer",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Minipress",
+              "manufacturer": "Sun Pharma",
+              "price": 80,
+              "packSize": "10 tablets",
+              "unitPrice": 8.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "hydralazine"
+      },
+      {
+        "slug": "labetalol"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Labetalol",
+    "slug": "labetalol",
+    "category": "Alpha/Beta Blocker",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure including during pregnancy.",
+    "indications": [
+      "Hypertension",
+      "Pregnancy-induced hypertension"
+    ],
+    "precautions": [
+      "Monitor blood pressure",
+      "Avoid sudden withdrawal"
+    ],
+    "sideEffects": [
+      "Dizziness",
+      "Fatigue",
+      "Low blood pressure"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "100 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 32,
+            "packSize": "10 tablets",
+            "unitPrice": 3.2
+          },
+          "brands": [
+            {
+              "name": "Labebet",
+              "manufacturer": "Sun Pharma",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Trandate",
+              "manufacturer": "GSK",
+              "price": 120,
+              "packSize": "10 tablets",
+              "unitPrice": 12.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "metoprolol"
+      },
+      {
+        "slug": "atenolol"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "heart"
+    ]
+  },
+  {
+    "genericName": "Prazosin",
+    "slug": "prazosin",
+    "category": "Alpha Blocker",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and symptoms of enlarged prostate.",
+    "indications": [
+      "Hypertension",
+      "Benign prostatic hyperplasia"
+    ],
+    "precautions": [
+      "Take first dose at bedtime",
+      "Monitor blood pressure"
+    ],
+    "sideEffects": [
+      "Dizziness",
+      "Headache",
+      "Low blood pressure"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "2 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 18,
+            "packSize": "10 tablets",
+            "unitPrice": 1.8
+          },
+          "brands": [
+            {
+              "name": "Minipress",
+              "manufacturer": "Pfizer",
+              "price": 70,
+              "packSize": "10 tablets",
+              "unitPrice": 7.0
+            },
+            {
+              "name": "Prazopress",
+              "manufacturer": "Sun Pharma",
+              "price": 60,
+              "packSize": "10 tablets",
+              "unitPrice": 6.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "doxazosin"
+      },
+      {
+        "slug": "tamsulosin"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "prostate"
+    ]
+  },
+  {
+    "genericName": "Doxazosin",
+    "slug": "doxazosin",
+    "category": "Alpha Blocker",
+    "prescriptionRequired": true,
+    "description": "Used to treat high blood pressure and urinary symptoms due to enlarged prostate.",
+    "indications": [
+      "Hypertension",
+      "Benign prostatic hyperplasia"
+    ],
+    "precautions": [
+      "Monitor blood pressure",
+      "Take first dose at bedtime"
+    ],
+    "sideEffects": [
+      "Dizziness",
+      "Headache",
+      "Low blood pressure"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "4 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 20,
+            "packSize": "10 tablets",
+            "unitPrice": 2.0
+          },
+          "brands": [
+            {
+              "name": "Cardura",
+              "manufacturer": "Pfizer",
+              "price": 85,
+              "packSize": "10 tablets",
+              "unitPrice": 8.5
+            },
+            {
+              "name": "Doxacard",
+              "manufacturer": "Cipla",
+              "price": 70,
+              "packSize": "10 tablets",
+              "unitPrice": 7.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "prazosin"
+      },
+      {
+        "slug": "tamsulosin"
+      }
+    ],
+    "searchTags": [
+      "blood pressure",
+      "prostate"
+    ]
+  },
+  {
+    "genericName": "Tamsulosin",
+    "slug": "tamsulosin",
+    "category": "Alpha Blocker",
+    "prescriptionRequired": true,
+    "description": "Used to treat symptoms of enlarged prostate (BPH) by relaxing muscles in the prostate and bladder.",
+    "indications": [
+      "Benign prostatic hyperplasia"
+    ],
+    "precautions": [
+      "Take after meals",
+      "Avoid sudden standing"
+    ],
+    "sideEffects": [
+      "Dizziness",
+      "Headache",
+      "Abnormal ejaculation"
+    ],
+    "variants": [
+      {
+        "form": "Capsule",
+        "strength": "0.4 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 28,
+            "packSize": "10 capsules",
+            "unitPrice": 2.8
+          },
+          "brands": [
+            {
+              "name": "Urimax",
+              "manufacturer": "Cipla",
+              "price": 95,
+              "packSize": "10 capsules",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Flomax",
+              "manufacturer": "Astellas",
+              "price": 120,
+              "packSize": "10 capsules",
+              "unitPrice": 12.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "doxazosin"
+      },
+      {
+        "slug": "prazosin"
+      }
+    ],
+    "searchTags": [
+      "prostate",
+      "urinary"
+    ]
+  },
+  {
+    "genericName": "Silodosin",
+    "slug": "silodosin",
+    "category": "Alpha Blocker",
+    "prescriptionRequired": true,
+    "description": "Used to treat urinary symptoms associated with enlarged prostate.",
+    "indications": [
+      "Benign prostatic hyperplasia"
+    ],
+    "precautions": [
+      "Take after meals",
+      "Avoid sudden standing"
+    ],
+    "sideEffects": [
+      "Dizziness",
+      "Low blood pressure",
+      "Abnormal ejaculation"
+    ],
+    "variants": [
+      {
+        "form": "Capsule",
+        "strength": "8 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 35,
+            "packSize": "10 capsules",
+            "unitPrice": 3.5
+          },
+          "brands": [
+            {
+              "name": "Silodal",
+              "manufacturer": "Sun Pharma",
+              "price": 120,
+              "packSize": "10 capsules",
+              "unitPrice": 12.0
+            },
+            {
+              "name": "Rapaflo",
+              "manufacturer": "Kissei Pharma",
+              "price": 140,
+              "packSize": "10 capsules",
+              "unitPrice": 14.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "tamsulosin"
+      },
+      {
+        "slug": "alfuzosin"
+      }
+    ],
+    "searchTags": [
+      "prostate",
+      "urinary"
+    ]
+  },
+  {
+    "genericName": "Alfuzosin",
+    "slug": "alfuzosin",
+    "category": "Alpha Blocker",
+    "prescriptionRequired": true,
+    "description": "Used to treat symptoms of enlarged prostate by relaxing bladder muscles.",
+    "indications": [
+      "Benign prostatic hyperplasia"
+    ],
+    "precautions": [
+      "Take after meals",
+      "Monitor blood pressure"
+    ],
+    "sideEffects": [
+      "Dizziness",
+      "Headache",
+      "Fatigue"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 30,
+            "packSize": "10 tablets",
+            "unitPrice": 3.0
+          },
+          "brands": [
+            {
+              "name": "Alfoo",
+              "manufacturer": "Cipla",
+              "price": 110,
+              "packSize": "10 tablets",
+              "unitPrice": 11.0
+            },
+            {
+              "name": "Xatral",
+              "manufacturer": "Sanofi",
+              "price": 130,
+              "packSize": "10 tablets",
+              "unitPrice": 13.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "tamsulosin"
+      },
+      {
+        "slug": "silodosin"
+      }
+    ],
+    "searchTags": [
+      "prostate",
+      "urinary"
+    ]
+  },
+  {
+    "genericName": "Finasteride",
+    "slug": "finasteride",
+    "category": "5-Alpha Reductase Inhibitor",
+    "prescriptionRequired": true,
+    "description": "Used to treat enlarged prostate and male pattern hair loss.",
+    "indications": [
+      "Benign prostatic hyperplasia",
+      "Hair loss"
+    ],
+    "precautions": [
+      "Not for women",
+      "Consult doctor before use"
+    ],
+    "sideEffects": [
+      "Reduced libido",
+      "Erectile dysfunction",
+      "Dizziness"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "5 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 32,
+            "packSize": "10 tablets",
+            "unitPrice": 3.2
+          },
+          "brands": [
+            {
+              "name": "Finax",
+              "manufacturer": "Dr Reddy's",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Proscar",
+              "manufacturer": "Merck",
+              "price": 120,
+              "packSize": "10 tablets",
+              "unitPrice": 12.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "dutasteride"
+      },
+      {
+        "slug": "tamsulosin"
+      }
+    ],
+    "searchTags": [
+      "prostate",
+      "hair loss"
+    ]
+  },
+  {
+    "genericName": "Dutasteride",
+    "slug": "dutasteride",
+    "category": "5-Alpha Reductase Inhibitor",
+    "prescriptionRequired": true,
+    "description": "Used to treat symptoms of enlarged prostate by reducing hormone levels.",
+    "indications": [
+      "Benign prostatic hyperplasia"
+    ],
+    "precautions": [
+      "Not for women",
+      "Consult doctor before use"
+    ],
+    "sideEffects": [
+      "Reduced libido",
+      "Erectile dysfunction",
+      "Dizziness"
+    ],
+    "variants": [
+      {
+        "form": "Capsule",
+        "strength": "0.5 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 36,
+            "packSize": "10 capsules",
+            "unitPrice": 3.6
+          },
+          "brands": [
+            {
+              "name": "Dutas",
+              "manufacturer": "Dr Reddy's",
+              "price": 120,
+              "packSize": "10 capsules",
+              "unitPrice": 12.0
+            },
+            {
+              "name": "Avodart",
+              "manufacturer": "GSK",
+              "price": 140,
+              "packSize": "10 capsules",
+              "unitPrice": 14.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "finasteride"
+      },
+      {
+        "slug": "tamsulosin"
+      }
+    ],
+    "searchTags": [
+      "prostate",
+      "urinary"
+    ]
+  },
+  {
+    "genericName": "Sildenafil",
+    "slug": "sildenafil",
+    "category": "PDE5 Inhibitor",
+    "prescriptionRequired": true,
+    "description": "Used to treat erectile dysfunction and pulmonary arterial hypertension.",
+    "indications": [
+      "Erectile dysfunction",
+      "Pulmonary hypertension"
+    ],
+    "precautions": [
+      "Avoid with nitrates",
+      "Consult doctor for heart conditions"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Flushing",
+      "Dizziness"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "50 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 40,
+            "packSize": "4 tablets",
+            "unitPrice": 10.0
+          },
+          "brands": [
+            {
+              "name": "Viagra",
+              "manufacturer": "Pfizer",
+              "price": 320,
+              "packSize": "4 tablets",
+              "unitPrice": 80.0
+            },
+            {
+              "name": "Penegra",
+              "manufacturer": "Zydus",
+              "price": 260,
+              "packSize": "4 tablets",
+              "unitPrice": 65.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "tadalafil"
+      },
+      {
+        "slug": "vardenafil"
+      }
+    ],
+    "searchTags": [
+      "erectile dysfunction",
+      "sexual health"
+    ]
+  },
+  {
+    "genericName": "Tadalafil",
+    "slug": "tadalafil",
+    "category": "PDE5 Inhibitor",
+    "prescriptionRequired": true,
+    "description": "Used to treat erectile dysfunction and symptoms of enlarged prostate.",
+    "indications": [
+      "Erectile dysfunction",
+      "Benign prostatic hyperplasia"
+    ],
+    "precautions": [
+      "Avoid with nitrates",
+      "Consult doctor for heart conditions"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Back pain",
+      "Flushing"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 45,
+            "packSize": "4 tablets",
+            "unitPrice": 11.25
+          },
+          "brands": [
+            {
+              "name": "Cialis",
+              "manufacturer": "Eli Lilly",
+              "price": 340,
+              "packSize": "4 tablets",
+              "unitPrice": 85.0
+            },
+            {
+              "name": "Megalis",
+              "manufacturer": "Macleods",
+              "price": 280,
+              "packSize": "4 tablets",
+              "unitPrice": 70.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "sildenafil"
+      },
+      {
+        "slug": "vardenafil"
+      }
+    ],
+    "searchTags": [
+      "erectile dysfunction",
+      "sexual health"
+    ]
+  },
+  {
+    "genericName": "Vardenafil",
+    "slug": "vardenafil",
+    "category": "PDE5 Inhibitor",
+    "prescriptionRequired": true,
+    "description": "Used to treat erectile dysfunction by increasing blood flow.",
+    "indications": [
+      "Erectile dysfunction"
+    ],
+    "precautions": [
+      "Avoid with nitrates",
+      "Consult doctor if heart disease present"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Flushing",
+      "Dizziness"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 42,
+            "packSize": "4 tablets",
+            "unitPrice": 10.5
+          },
+          "brands": [
+            {
+              "name": "Levitra",
+              "manufacturer": "Bayer",
+              "price": 330,
+              "packSize": "4 tablets",
+              "unitPrice": 82.5
+            },
+            {
+              "name": "Valif",
+              "manufacturer": "Ajanta Pharma",
+              "price": 270,
+              "packSize": "4 tablets",
+              "unitPrice": 67.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "sildenafil"
+      },
+      {
+        "slug": "tadalafil"
+      }
+    ],
+    "searchTags": [
+      "erectile dysfunction",
+      "sexual health"
+    ]
+  },
+  {
+    "genericName": "Ondansetron",
+    "slug": "ondansetron",
+    "category": "Antiemetic",
+    "prescriptionRequired": true,
+    "description": "Used to prevent nausea and vomiting caused by surgery or chemotherapy.",
+    "indications": [
+      "Nausea",
+      "Vomiting"
+    ],
+    "precautions": [
+      "Monitor heart rhythm",
+      "Use with caution in liver disease"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Constipation",
+      "Dizziness"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "4 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 25,
+            "packSize": "10 tablets",
+            "unitPrice": 2.5
+          },
+          "brands": [
+            {
+              "name": "Emeset",
+              "manufacturer": "Cipla",
+              "price": 85,
+              "packSize": "10 tablets",
+              "unitPrice": 8.5
+            },
+            {
+              "name": "Zofran",
+              "manufacturer": "GSK",
+              "price": 110,
+              "packSize": "10 tablets",
+              "unitPrice": 11.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "domperidone"
+      },
+      {
+        "slug": "metoclopramide"
+      }
+    ],
+    "searchTags": [
+      "nausea",
+      "vomiting"
+    ]
+  },
+  {
+    "genericName": "Domperidone",
+    "slug": "domperidone",
+    "category": "Antiemetic",
+    "prescriptionRequired": true,
+    "description": "Used to relieve nausea, vomiting, and stomach discomfort.",
+    "indications": [
+      "Nausea",
+      "Vomiting",
+      "Indigestion"
+    ],
+    "precautions": [
+      "Use cautiously in heart disease",
+      "Avoid overdose"
+    ],
+    "sideEffects": [
+      "Dry mouth",
+      "Headache",
+      "Dizziness"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 18,
+            "packSize": "10 tablets",
+            "unitPrice": 1.8
+          },
+          "brands": [
+            {
+              "name": "Domstal",
+              "manufacturer": "Torrent",
+              "price": 65,
+              "packSize": "10 tablets",
+              "unitPrice": 6.5
+            },
+            {
+              "name": "Motilium",
+              "manufacturer": "Janssen",
+              "price": 80,
+              "packSize": "10 tablets",
+              "unitPrice": 8.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "ondansetron"
+      },
+      {
+        "slug": "metoclopramide"
+      }
+    ],
+    "searchTags": [
+      "nausea",
+      "vomiting"
+    ]
+  },
+  {
+    "genericName": "Metoclopramide",
+    "slug": "metoclopramide",
+    "category": "Antiemetic / Prokinetic",
+    "prescriptionRequired": true,
+    "description": "Used to treat nausea, vomiting, and gastric motility disorders.",
+    "indications": [
+      "Nausea",
+      "Vomiting",
+      "Gastroparesis"
+    ],
+    "precautions": [
+      "Avoid long-term use",
+      "Consult doctor if neurological symptoms occur"
+    ],
+    "sideEffects": [
+      "Drowsiness",
+      "Restlessness",
+      "Diarrhea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 16,
+            "packSize": "10 tablets",
+            "unitPrice": 1.6
+          },
+          "brands": [
+            {
+              "name": "Metolar",
+              "manufacturer": "Cipla",
+              "price": 60,
+              "packSize": "10 tablets",
+              "unitPrice": 6.0
+            },
+            {
+              "name": "Reglan",
+              "manufacturer": "Pfizer",
+              "price": 75,
+              "packSize": "10 tablets",
+              "unitPrice": 7.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "domperidone"
+      },
+      {
+        "slug": "ondansetron"
+      }
+    ],
+    "searchTags": [
+      "nausea",
+      "vomiting"
+    ]
+  },
+  {
+    "genericName": "Pantoprazole",
+    "slug": "pantoprazole",
+    "category": "Proton Pump Inhibitor",
+    "prescriptionRequired": false,
+    "description": "Used to treat acidity, GERD, and stomach ulcers.",
+    "indications": [
+      "Acidity",
+      "GERD",
+      "Peptic ulcer"
+    ],
+    "precautions": [
+      "Avoid long-term use without medical advice",
+      "Monitor magnesium levels"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Diarrhea",
+      "Abdominal pain"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "40 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 20,
+            "packSize": "10 tablets",
+            "unitPrice": 2.0
+          },
+          "brands": [
+            {
+              "name": "Pantocid",
+              "manufacturer": "Sun Pharma",
+              "price": 75,
+              "packSize": "10 tablets",
+              "unitPrice": 7.5
+            },
+            {
+              "name": "Pan",
+              "manufacturer": "Alkem",
+              "price": 65,
+              "packSize": "10 tablets",
+              "unitPrice": 6.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "omeprazole"
+      },
+      {
+        "slug": "rabeprazole"
+      }
+    ],
+    "searchTags": [
+      "acidity",
+      "ulcer"
+    ]
+  },
+  {
+    "genericName": "Rabeprazole",
+    "slug": "rabeprazole",
+    "category": "Proton Pump Inhibitor",
+    "prescriptionRequired": false,
+    "description": "Used to treat acid reflux and stomach ulcers.",
+    "indications": [
+      "GERD",
+      "Peptic ulcer",
+      "Acidity"
+    ],
+    "precautions": [
+      "Avoid long-term use",
+      "Consult doctor if symptoms persist"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Nausea",
+      "Diarrhea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "20 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 22,
+            "packSize": "10 tablets",
+            "unitPrice": 2.2
+          },
+          "brands": [
+            {
+              "name": "Rablet",
+              "manufacturer": "Lupin",
+              "price": 80,
+              "packSize": "10 tablets",
+              "unitPrice": 8.0
+            },
+            {
+              "name": "Rabium",
+              "manufacturer": "Cipla",
+              "price": 70,
+              "packSize": "10 tablets",
+              "unitPrice": 7.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "pantoprazole"
+      },
+      {
+        "slug": "omeprazole"
+      }
+    ],
+    "searchTags": [
+      "acidity",
+      "ulcer"
+    ]
+  },
+  {
+    "genericName": "Esomeprazole",
+    "slug": "esomeprazole",
+    "category": "Proton Pump Inhibitor",
+    "prescriptionRequired": false,
+    "description": "Used to treat acid reflux, GERD, and stomach ulcers.",
+    "indications": [
+      "GERD",
+      "Acidity",
+      "Peptic ulcer"
+    ],
+    "precautions": [
+      "Avoid long-term use",
+      "Monitor magnesium levels"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Diarrhea",
+      "Abdominal pain"
+    ],
+    "variants": [
+      {
+        "form": "Capsule",
+        "strength": "40 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 24,
+            "packSize": "10 capsules",
+            "unitPrice": 2.4
+          },
+          "brands": [
+            {
+              "name": "Nexpro",
+              "manufacturer": "Torrent",
+              "price": 90,
+              "packSize": "10 capsules",
+              "unitPrice": 9.0
+            },
+            {
+              "name": "Nexium",
+              "manufacturer": "AstraZeneca",
+              "price": 120,
+              "packSize": "10 capsules",
+              "unitPrice": 12.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "pantoprazole"
+      },
+      {
+        "slug": "rabeprazole"
+      }
+    ],
+    "searchTags": [
+      "acidity",
+      "ulcer"
+    ]
+  },
+  {
+    "genericName": "Sucralfate",
+    "slug": "sucralfate",
+    "category": "Gastroprotective Agent",
+    "prescriptionRequired": false,
+    "description": "Used to treat and prevent stomach ulcers by forming a protective coating.",
+    "indications": [
+      "Peptic ulcer",
+      "Gastritis"
+    ],
+    "precautions": [
+      "Take on empty stomach",
+      "Avoid taking with antacids"
+    ],
+    "sideEffects": [
+      "Constipation",
+      "Dry mouth",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "1 g",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 18,
+            "packSize": "10 tablets",
+            "unitPrice": 1.8
+          },
+          "brands": [
+            {
+              "name": "Sucrafil",
+              "manufacturer": "Cipla",
+              "price": 65,
+              "packSize": "10 tablets",
+              "unitPrice": 6.5
+            },
+            {
+              "name": "Carafate",
+              "manufacturer": "Abbott",
+              "price": 85,
+              "packSize": "10 tablets",
+              "unitPrice": 8.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "pantoprazole"
+      },
+      {
+        "slug": "rabeprazole"
+      }
+    ],
+    "searchTags": [
+      "ulcer",
+      "gastritis"
+    ]
+  },
+  {
+    "genericName": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "slug": "aluminium-magnesium-hydroxide",
+    "category": "Antacid",
+    "prescriptionRequired": false,
+    "description": "Used to neutralize stomach acid and relieve heartburn, indigestion, and acidity.",
+    "indications": [
+      "Acidity",
+      "Heartburn",
+      "Indigestion"
+    ],
+    "precautions": [
+      "Avoid excessive use",
+      "Consult doctor if symptoms persist"
+    ],
+    "sideEffects": [
+      "Constipation",
+      "Diarrhea",
+      "Chalky taste"
+    ],
+    "variants": [
+      {
+        "form": "Suspension",
+        "strength": "200 mg + 200 mg / 5 ml",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 15,
+            "packSize": "170 ml bottle",
+            "unitPrice": 0.09
+          },
+          "brands": [
+            {
+              "name": "Gelusil",
+              "manufacturer": "Pfizer",
+              "price": 95,
+              "packSize": "170 ml bottle",
+              "unitPrice": 0.56
+            },
+            {
+              "name": "Digene",
+              "manufacturer": "Abbott",
+              "price": 85,
+              "packSize": "170 ml bottle",
+              "unitPrice": 0.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "pantoprazole"
+      },
+      {
+        "slug": "rabeprazole"
+      }
+    ],
+    "searchTags": [
+      "acidity",
+      "heartburn"
+    ]
+  },
+  {
+    "genericName": "Magaldrate + Simethicone",
+    "slug": "magaldrate-simethicone",
+    "category": "Antacid",
+    "prescriptionRequired": false,
+    "description": "Used to treat acidity, gas, and stomach discomfort.",
+    "indications": [
+      "Acidity",
+      "Gas",
+      "Indigestion"
+    ],
+    "precautions": [
+      "Avoid excessive use",
+      "Consult doctor if symptoms persist"
+    ],
+    "sideEffects": [
+      "Constipation",
+      "Diarrhea",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Suspension",
+        "strength": "400 mg + 20 mg / 5 ml",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 18,
+            "packSize": "200 ml bottle",
+            "unitPrice": 0.09
+          },
+          "brands": [
+            {
+              "name": "Mucaine Gel",
+              "manufacturer": "Pfizer",
+              "price": 110,
+              "packSize": "200 ml bottle",
+              "unitPrice": 0.55
+            },
+            {
+              "name": "Digeraft",
+              "manufacturer": "Sun Pharma",
+              "price": 95,
+              "packSize": "200 ml bottle",
+              "unitPrice": 0.47
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "aluminium-magnesium-hydroxide"
+      },
+      {
+        "slug": "pantoprazole"
+      }
+    ],
+    "searchTags": [
+      "acidity",
+      "gas"
+    ]
+  },
+  {
+    "genericName": "Simethicone",
+    "slug": "simethicone",
+    "category": "Antiflatulent",
+    "prescriptionRequired": false,
+    "description": "Used to relieve gas and bloating in the stomach and intestines.",
+    "indications": [
+      "Gas",
+      "Bloating"
+    ],
+    "precautions": [
+      "Use as directed",
+      "Consult doctor if symptoms persist"
+    ],
+    "sideEffects": [
+      "Mild nausea",
+      "Constipation"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "80 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 12,
+            "packSize": "10 tablets",
+            "unitPrice": 1.2
+          },
+          "brands": [
+            {
+              "name": "Gas-O-Fast",
+              "manufacturer": "Mankind",
+              "price": 55,
+              "packSize": "10 tablets",
+              "unitPrice": 5.5
+            },
+            {
+              "name": "Flatuna",
+              "manufacturer": "Sun Pharma",
+              "price": 50,
+              "packSize": "10 tablets",
+              "unitPrice": 5.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "magaldrate-simethicone"
+      }
+    ],
+    "searchTags": [
+      "gas",
+      "bloating"
+    ]
+  },
+  {
+    "genericName": "Loperamide",
+    "slug": "loperamide",
+    "category": "Antidiarrheal",
+    "prescriptionRequired": false,
+    "description": "Used to control diarrhea by slowing intestinal movement.",
+    "indications": [
+      "Diarrhea"
+    ],
+    "precautions": [
+      "Avoid overdose",
+      "Consult doctor if diarrhea persists"
+    ],
+    "sideEffects": [
+      "Constipation",
+      "Dizziness",
+      "Abdominal pain"
+    ],
+    "variants": [
+      {
+        "form": "Capsule",
+        "strength": "2 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 14,
+            "packSize": "10 capsules",
+            "unitPrice": 1.4
+          },
+          "brands": [
+            {
+              "name": "Imodium",
+              "manufacturer": "Janssen",
+              "price": 75,
+              "packSize": "10 capsules",
+              "unitPrice": 7.5
+            },
+            {
+              "name": "Lopamide",
+              "manufacturer": "Cipla",
+              "price": 60,
+              "packSize": "10 capsules",
+              "unitPrice": 6.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "racecadotril"
+      }
+    ],
+    "searchTags": [
+      "diarrhea",
+      "stomach"
+    ]
+  },
+  {
+    "genericName": "Racecadotril",
+    "slug": "racecadotril",
+    "category": "Antidiarrheal",
+    "prescriptionRequired": true,
+    "description": "Used to treat acute diarrhea by reducing intestinal secretion.",
+    "indications": [
+      "Acute diarrhea"
+    ],
+    "precautions": [
+      "Stay hydrated",
+      "Consult doctor if symptoms persist"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Rash",
+      "Constipation"
+    ],
+    "variants": [
+      {
+        "form": "Capsule",
+        "strength": "100 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 20,
+            "packSize": "10 capsules",
+            "unitPrice": 2.0
+          },
+          "brands": [
+            {
+              "name": "Racedot",
+              "manufacturer": "Sun Pharma",
+              "price": 95,
+              "packSize": "10 capsules",
+              "unitPrice": 9.5
+            },
+            {
+              "name": "Redotil",
+              "manufacturer": "Dr Reddy's",
+              "price": 110,
+              "packSize": "10 capsules",
+              "unitPrice": 11.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "loperamide"
+      }
+    ],
+    "searchTags": [
+      "diarrhea",
+      "stomach"
+    ]
+  },
+  {
+    "genericName": "Oral Rehydration Salts",
+    "slug": "oral-rehydration-salts",
+    "category": "Electrolyte Replacement",
+    "prescriptionRequired": false,
+    "description": "Used to treat dehydration caused by diarrhea, vomiting, or excessive sweating.",
+    "indications": [
+      "Dehydration",
+      "Diarrhea",
+      "Vomiting"
+    ],
+    "precautions": [
+      "Use correct dilution",
+      "Store in clean container"
+    ],
+    "sideEffects": [
+      "Rare nausea",
+      "Mild bloating"
+    ],
+    "variants": [
+      {
+        "form": "Powder",
+        "strength": "WHO formula",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 10,
+            "packSize": "1 sachet",
+            "unitPrice": 10.0
+          },
+          "brands": [
+            {
+              "name": "Electral",
+              "manufacturer": "FDC",
+              "price": 22,
+              "packSize": "1 sachet",
+              "unitPrice": 22.0
+            },
+            {
+              "name": "Pedialyte",
+              "manufacturer": "Abbott",
+              "price": 28,
+              "packSize": "1 sachet",
+              "unitPrice": 28.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [],
+    "searchTags": [
+      "dehydration",
+      "diarrhea"
+    ]
+  },
+  {
+    "genericName": "Zinc Sulfate",
+    "slug": "zinc-sulfate",
+    "category": "Mineral Supplement",
+    "prescriptionRequired": false,
+    "description": "Used to treat zinc deficiency and support immunity, often given with ORS in diarrhea.",
+    "indications": [
+      "Zinc deficiency",
+      "Diarrhea"
+    ],
+    "precautions": [
+      "Avoid overdose",
+      "Take after food"
+    ],
+    "sideEffects": [
+      "Nausea",
+      "Metallic taste",
+      "Stomach upset"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "20 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 12,
+            "packSize": "10 tablets",
+            "unitPrice": 1.2
+          },
+          "brands": [
+            {
+              "name": "Zincovit",
+              "manufacturer": "Apex Labs",
+              "price": 60,
+              "packSize": "10 tablets",
+              "unitPrice": 6.0
+            },
+            {
+              "name": "Zinc Sulfate Tablets",
+              "manufacturer": "Cipla",
+              "price": 50,
+              "packSize": "10 tablets",
+              "unitPrice": 5.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "multivitamins"
+      }
+    ],
+    "searchTags": [
+      "zinc",
+      "immunity"
+    ]
+  },
+  {
+    "genericName": "Vitamin C",
+    "slug": "vitamin-c",
+    "category": "Vitamin Supplement",
+    "prescriptionRequired": false,
+    "description": "Used to prevent and treat vitamin C deficiency and support immune function.",
+    "indications": [
+      "Vitamin C deficiency",
+      "Low immunity"
+    ],
+    "precautions": [
+      "Avoid overdose",
+      "Take after food"
+    ],
+    "sideEffects": [
+      "Stomach upset",
+      "Diarrhea",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "500 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 14,
+            "packSize": "10 tablets",
+            "unitPrice": 1.4
+          },
+          "brands": [
+            {
+              "name": "Limcee",
+              "manufacturer": "Abbott",
+              "price": 45,
+              "packSize": "10 tablets",
+              "unitPrice": 4.5
+            },
+            {
+              "name": "Celin",
+              "manufacturer": "GlaxoSmithKline",
+              "price": 50,
+              "packSize": "10 tablets",
+              "unitPrice": 5.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "multivitamins"
+      }
+    ],
+    "searchTags": [
+      "vitamin",
+      "immunity"
+    ]
+  },
+  {
+    "genericName": "Vitamin D3",
+    "slug": "vitamin-d3",
+    "category": "Vitamin Supplement",
+    "prescriptionRequired": false,
+    "description": "Used to treat vitamin D deficiency and support bone health.",
+    "indications": [
+      "Vitamin D deficiency",
+      "Bone health"
+    ],
+    "precautions": [
+      "Avoid overdose",
+      "Monitor calcium levels"
+    ],
+    "sideEffects": [
+      "Nausea",
+      "Constipation",
+      "Weakness"
+    ],
+    "variants": [
+      {
+        "form": "Capsule",
+        "strength": "60000 IU",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 18,
+            "packSize": "1 capsule",
+            "unitPrice": 18.0
+          },
+          "brands": [
+            {
+              "name": "Uprise D3",
+              "manufacturer": "Alkem",
+              "price": 45,
+              "packSize": "1 capsule",
+              "unitPrice": 45.0
+            },
+            {
+              "name": "Calcirol",
+              "manufacturer": "Cadila",
+              "price": 55,
+              "packSize": "1 capsule",
+              "unitPrice": 55.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "multivitamins"
+      }
+    ],
+    "searchTags": [
+      "vitamin",
+      "bone"
+    ]
+  },
+  {
+    "genericName": "Calcium Carbonate",
+    "slug": "calcium-carbonate",
+    "category": "Mineral Supplement",
+    "prescriptionRequired": false,
+    "description": "Used to prevent and treat calcium deficiency and support bone health.",
+    "indications": [
+      "Calcium deficiency",
+      "Bone health"
+    ],
+    "precautions": [
+      "Avoid excessive intake",
+      "Take with food"
+    ],
+    "sideEffects": [
+      "Constipation",
+      "Gas",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "500 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 16,
+            "packSize": "10 tablets",
+            "unitPrice": 1.6
+          },
+          "brands": [
+            {
+              "name": "Shelcal",
+              "manufacturer": "Torrent",
+              "price": 55,
+              "packSize": "10 tablets",
+              "unitPrice": 5.5
+            },
+            {
+              "name": "Calcium Sandoz",
+              "manufacturer": "Novartis",
+              "price": 65,
+              "packSize": "10 tablets",
+              "unitPrice": 6.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "vitamin-d3"
+      }
+    ],
+    "searchTags": [
+      "calcium",
+      "bone"
+    ]
+  },
+  {
+    "genericName": "Iron + Folic Acid",
+    "slug": "iron-folic-acid",
+    "category": "Hematinic Supplement",
+    "prescriptionRequired": false,
+    "description": "Used to prevent and treat iron deficiency anemia, especially during pregnancy.",
+    "indications": [
+      "Iron deficiency anemia",
+      "Pregnancy supplementation"
+    ],
+    "precautions": [
+      "Take after meals",
+      "Avoid overdose"
+    ],
+    "sideEffects": [
+      "Constipation",
+      "Dark stools",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "60 mg + 500 mcg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 14,
+            "packSize": "10 tablets",
+            "unitPrice": 1.4
+          },
+          "brands": [
+            {
+              "name": "Autrin",
+              "manufacturer": "Pfizer",
+              "price": 55,
+              "packSize": "10 tablets",
+              "unitPrice": 5.5
+            },
+            {
+              "name": "Feronia XT",
+              "manufacturer": "Emcure",
+              "price": 60,
+              "packSize": "10 tablets",
+              "unitPrice": 6.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "multivitamins"
+      }
+    ],
+    "searchTags": [
+      "iron",
+      "anemia"
+    ]
+  },
+  {
+    "genericName": "Ferrous Sulfate",
+    "slug": "ferrous-sulfate",
+    "category": "Iron Supplement",
+    "prescriptionRequired": false,
+    "description": "Used to treat and prevent iron deficiency anemia.",
+    "indications": [
+      "Iron deficiency anemia"
+    ],
+    "precautions": [
+      "Take after meals",
+      "Avoid overdose"
+    ],
+    "sideEffects": [
+      "Constipation",
+      "Dark stools",
+      "Nausea"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "200 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 12,
+            "packSize": "10 tablets",
+            "unitPrice": 1.2
+          },
+          "brands": [
+            {
+              "name": "Fefol",
+              "manufacturer": "Abbott",
+              "price": 50,
+              "packSize": "10 tablets",
+              "unitPrice": 5.0
+            },
+            {
+              "name": "Ferrous Tablets",
+              "manufacturer": "Cipla",
+              "price": 45,
+              "packSize": "10 tablets",
+              "unitPrice": 4.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "iron-folic-acid"
+      }
+    ],
+    "searchTags": [
+      "iron",
+      "anemia"
+    ]
+  },
+  {
+    "genericName": "Multivitamins",
+    "slug": "multivitamins",
+    "category": "Vitamin Supplement",
+    "prescriptionRequired": false,
+    "description": "Used to prevent vitamin deficiencies and support overall health.",
+    "indications": [
+      "Vitamin deficiency",
+      "General weakness"
+    ],
+    "precautions": [
+      "Avoid overdose",
+      "Take after meals"
+    ],
+    "sideEffects": [
+      "Mild nausea",
+      "Stomach upset"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "Multivitamin formula",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 20,
+            "packSize": "10 tablets",
+            "unitPrice": 2.0
+          },
+          "brands": [
+            {
+              "name": "Revital H",
+              "manufacturer": "Sun Pharma",
+              "price": 120,
+              "packSize": "10 capsules",
+              "unitPrice": 12.0
+            },
+            {
+              "name": "Zincovit",
+              "manufacturer": "Apex Labs",
+              "price": 95,
+              "packSize": "10 tablets",
+              "unitPrice": 9.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "vitamin-c"
+      },
+      {
+        "slug": "vitamin-d3"
+      }
+    ],
+    "searchTags": [
+      "vitamin",
+      "supplement"
+    ]
+  },
+  {
+    "genericName": "Vitamin B Complex",
+    "slug": "vitamin-b-complex",
+    "category": "Vitamin Supplement",
+    "prescriptionRequired": false,
+    "description": "Used to treat vitamin B deficiency and support nerve health.",
+    "indications": [
+      "Vitamin B deficiency",
+      "Nerve health"
+    ],
+    "precautions": [
+      "Avoid overdose",
+      "Take after meals"
+    ],
+    "sideEffects": [
+      "Mild nausea",
+      "Yellow urine"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "B complex formula",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 18,
+            "packSize": "10 tablets",
+            "unitPrice": 1.8
+          },
+          "brands": [
+            {
+              "name": "Neurobion Forte",
+              "manufacturer": "Procter & Gamble",
+              "price": 60,
+              "packSize": "10 tablets",
+              "unitPrice": 6.0
+            },
+            {
+              "name": "Becosules",
+              "manufacturer": "Pfizer",
+              "price": 70,
+              "packSize": "10 capsules",
+              "unitPrice": 7.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "multivitamins"
+      }
+    ],
+    "searchTags": [
+      "vitamin",
+      "nerve"
+    ]
+  },
+  {
+    "genericName": "Folic Acid",
+    "slug": "folic-acid",
+    "category": "Vitamin Supplement",
+    "prescriptionRequired": false,
+    "description": "Used to treat folic acid deficiency and prevent anemia.",
+    "indications": [
+      "Folic acid deficiency",
+      "Anemia",
+      "Pregnancy supplementation"
+    ],
+    "precautions": [
+      "Avoid overdose",
+      "Consult doctor if symptoms persist"
+    ],
+    "sideEffects": [
+      "Mild nausea",
+      "Bloating"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "5 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 10,
+            "packSize": "10 tablets",
+            "unitPrice": 1.0
+          },
+          "brands": [
+            {
+              "name": "Folvite",
+              "manufacturer": "Pfizer",
+              "price": 45,
+              "packSize": "10 tablets",
+              "unitPrice": 4.5
+            },
+            {
+              "name": "Folic Acid Tablets",
+              "manufacturer": "Cipla",
+              "price": 40,
+              "packSize": "10 tablets",
+              "unitPrice": 4.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "iron-folic-acid"
+      }
+    ],
+    "searchTags": [
+      "vitamin",
+      "anemia"
+    ]
+  },
+  {
+    "genericName": "Cetirizine",
+    "slug": "cetirizine",
+    "category": "Antihistamine",
+    "prescriptionRequired": false,
+    "description": "Used to relieve allergy symptoms such as sneezing, runny nose, and itching.",
+    "indications": [
+      "Allergic rhinitis",
+      "Skin allergy",
+      "Urticaria"
+    ],
+    "precautions": [
+      "Avoid alcohol",
+      "Use cautiously while driving"
+    ],
+    "sideEffects": [
+      "Drowsiness",
+      "Dry mouth",
+      "Fatigue"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 12,
+            "packSize": "10 tablets",
+            "unitPrice": 1.2
+          },
+          "brands": [
+            {
+              "name": "Cetzine",
+              "manufacturer": "Dr Reddy's",
+              "price": 45,
+              "packSize": "10 tablets",
+              "unitPrice": 4.5
+            },
+            {
+              "name": "Zyrtec",
+              "manufacturer": "UCB Pharma",
+              "price": 60,
+              "packSize": "10 tablets",
+              "unitPrice": 6.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "loratadine"
+      },
+      {
+        "slug": "fexofenadine"
+      }
+    ],
+    "searchTags": [
+      "allergy",
+      "antihistamine"
+    ]
+  },
+  {
+    "genericName": "Loratadine",
+    "slug": "loratadine",
+    "category": "Antihistamine",
+    "prescriptionRequired": false,
+    "description": "Used to relieve symptoms of seasonal allergies such as sneezing and itching.",
+    "indications": [
+      "Allergic rhinitis",
+      "Skin allergy"
+    ],
+    "precautions": [
+      "Avoid overdose",
+      "Consult doctor if symptoms persist"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Dry mouth",
+      "Fatigue"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "10 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 14,
+            "packSize": "10 tablets",
+            "unitPrice": 1.4
+          },
+          "brands": [
+            {
+              "name": "Claritin",
+              "manufacturer": "Bayer",
+              "price": 55,
+              "packSize": "10 tablets",
+              "unitPrice": 5.5
+            },
+            {
+              "name": "Lorfast",
+              "manufacturer": "Cipla",
+              "price": 48,
+              "packSize": "10 tablets",
+              "unitPrice": 4.8
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "cetirizine"
+      },
+      {
+        "slug": "fexofenadine"
+      }
+    ],
+    "searchTags": [
+      "allergy",
+      "antihistamine"
+    ]
+  },
+  {
+    "genericName": "Fexofenadine",
+    "slug": "fexofenadine",
+    "category": "Antihistamine",
+    "prescriptionRequired": false,
+    "description": "Used to treat allergic symptoms like sneezing, itching, and hives.",
+    "indications": [
+      "Allergic rhinitis",
+      "Urticaria"
+    ],
+    "precautions": [
+      "Avoid fruit juice with medication",
+      "Consult doctor if symptoms persist"
+    ],
+    "sideEffects": [
+      "Headache",
+      "Nausea",
+      "Dizziness"
+    ],
+    "variants": [
+      {
+        "form": "Tablet",
+        "strength": "120 mg",
+        "route": "Oral",
+        "pricing": {
+          "janAushadhi": {
+            "price": 18,
+            "packSize": "10 tablets",
+            "unitPrice": 1.8
+          },
+          "brands": [
+            {
+              "name": "Allegra",
+              "manufacturer": "Sanofi",
+              "price": 75,
+              "packSize": "10 tablets",
+              "unitPrice": 7.5
+            },
+            {
+              "name": "Fexy",
+              "manufacturer": "Cipla",
+              "price": 65,
+              "packSize": "10 tablets",
+              "unitPrice": 6.5
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "cetirizine"
+      },
+      {
+        "slug": "loratadine"
+      }
+    ],
+    "searchTags": [
+      "allergy",
+      "antihistamine"
+    ]
+  },
+  {
+    "genericName": "Salbutamol",
+    "slug": "salbutamol",
+    "category": "Bronchodilator",
+    "prescriptionRequired": true,
+    "description": "Used to treat asthma and other respiratory conditions by relaxing airway muscles.",
+    "indications": [
+      "Asthma",
+      "Bronchospasm"
+    ],
+    "precautions": [
+      "Use as prescribed",
+      "Avoid overdose"
+    ],
+    "sideEffects": [
+      "Tremor",
+      "Palpitations",
+      "Headache"
+    ],
+    "variants": [
+      {
+        "form": "Inhaler",
+        "strength": "100 mcg",
+        "route": "Inhalation",
+        "pricing": {
+          "janAushadhi": {
+            "price": 20,
+            "packSize": "1 inhaler",
+            "unitPrice": 20.0
+          },
+          "brands": [
+            {
+              "name": "Asthalin",
+              "manufacturer": "Cipla",
+              "price": 120,
+              "packSize": "1 inhaler",
+              "unitPrice": 120.0
+            },
+            {
+              "name": "Ventolin",
+              "manufacturer": "GSK",
+              "price": 140,
+              "packSize": "1 inhaler",
+              "unitPrice": 140.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "terbutaline"
+      }
+    ],
+    "searchTags": [
+      "asthma",
+      "breathing"
+    ]
+  },
+  {
+    "genericName": "Budesonide",
+    "slug": "budesonide",
+    "category": "Corticosteroid",
+    "prescriptionRequired": true,
+    "description": "Used to treat asthma and inflammatory respiratory conditions.",
+    "indications": [
+      "Asthma",
+      "Allergic rhinitis"
+    ],
+    "precautions": [
+      "Rinse mouth after inhalation",
+      "Use under medical supervision"
+    ],
+    "sideEffects": [
+      "Hoarseness",
+      "Oral thrush",
+      "Cough"
+    ],
+    "variants": [
+      {
+        "form": "Inhaler",
+        "strength": "200 mcg",
+        "route": "Inhalation",
+        "pricing": {
+          "janAushadhi": {
+            "price": 25,
+            "packSize": "1 inhaler",
+            "unitPrice": 25.0
+          },
+          "brands": [
+            {
+              "name": "Budecort",
+              "manufacturer": "Cipla",
+              "price": 150,
+              "packSize": "1 inhaler",
+              "unitPrice": 150.0
+            },
+            {
+              "name": "Pulmicort",
+              "manufacturer": "AstraZeneca",
+              "price": 180,
+              "packSize": "1 inhaler",
+              "unitPrice": 180.0
+            }
+          ]
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "slug": "fluticasone"
+      }
+    ],
+    "searchTags": [
+      "asthma",
+      "steroid"
+    ]
+  }
+]
